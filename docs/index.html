@@ -1,0 +1,414 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>CVS + Walgreens Closure Tracker</title>
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+    crossorigin=""
+  />
+  <style>
+    :root {
+      --bg: #f4f6f8;
+      --card: #ffffff;
+      --ink: #1e2a32;
+      --muted: #5d6c76;
+      --brand: #0d6f89;
+      --accent: #e27d27;
+      --line: #dbe3e8;
+    }
+    * {
+      box-sizing: border-box;
+    }
+    body {
+      margin: 0;
+      font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+      color: var(--ink);
+      background: radial-gradient(circle at 0% 0%, #d9eef5 0%, var(--bg) 42%);
+    }
+    .wrap {
+      max-width: 1180px;
+      margin: 0 auto;
+      padding: 18px 16px 36px;
+    }
+    .title-row {
+      display: flex;
+      gap: 12px;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: space-between;
+    }
+    h1 {
+      margin: 0;
+      font-size: clamp(1.3rem, 1.6vw + 1rem, 2rem);
+      letter-spacing: 0.2px;
+    }
+    .sub {
+      color: var(--muted);
+      margin: 4px 0 0;
+      font-size: 0.95rem;
+    }
+    .panel {
+      margin-top: 14px;
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      padding: 12px;
+      box-shadow: 0 8px 20px rgba(8, 34, 53, 0.06);
+    }
+    .kpis {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(140px, 1fr));
+      gap: 10px;
+    }
+    .kpi {
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      padding: 10px;
+      background: #fdfefe;
+    }
+    .kpi .label {
+      color: var(--muted);
+      font-size: 0.82rem;
+    }
+    .kpi .value {
+      margin-top: 4px;
+      font-size: 1.35rem;
+      font-weight: 600;
+    }
+    .filters {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      gap: 10px;
+      align-items: end;
+    }
+    label {
+      display: block;
+      margin-bottom: 4px;
+      font-size: 0.85rem;
+      color: var(--muted);
+    }
+    select, input {
+      width: 100%;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      padding: 8px 9px;
+      font: inherit;
+      background: #fff;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: 1.4fr 1fr;
+      gap: 12px;
+    }
+    #map {
+      width: 100%;
+      height: 420px;
+      border-radius: 10px;
+      border: 1px solid var(--line);
+    }
+    .chart-wrap {
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      padding: 8px;
+      height: 420px;
+      background: #fff;
+    }
+    .chart-wrap canvas {
+      width: 100% !important;
+      height: 100% !important;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+    th, td {
+      border-bottom: 1px solid var(--line);
+      text-align: left;
+      vertical-align: top;
+      padding: 9px 8px;
+      font-size: 0.89rem;
+    }
+    th {
+      color: var(--muted);
+      font-weight: 600;
+      background: #fbfdfe;
+    }
+    a {
+      color: var(--brand);
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    .hint {
+      color: var(--muted);
+      font-size: 0.86rem;
+    }
+    @media (max-width: 980px) {
+      .kpis {
+        grid-template-columns: repeat(2, minmax(120px, 1fr));
+      }
+      .filters {
+        grid-template-columns: 1fr;
+      }
+      .grid {
+        grid-template-columns: 1fr;
+      }
+      #map,
+      .chart-wrap {
+        height: 360px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="title-row">
+      <div>
+        <h1>CVS + Walgreens Closure Tracker</h1>
+        <div class="sub">Reported closures from public news sources, updated automatically.</div>
+      </div>
+      <div id="generatedAt" class="hint"></div>
+    </div>
+
+    <div class="panel kpis" id="kpiGrid"></div>
+
+    <div class="panel filters">
+      <div>
+        <label for="chainFilter">Chain</label>
+        <select id="chainFilter"></select>
+      </div>
+      <div>
+        <label for="stateFilter">State</label>
+        <select id="stateFilter"></select>
+      </div>
+      <div>
+        <label for="textFilter">Search title/location</label>
+        <input id="textFilter" type="text" placeholder="ex: Chicago, IL" />
+      </div>
+    </div>
+
+    <div class="panel grid">
+      <div id="map"></div>
+      <div class="chart-wrap">
+        <canvas id="monthChart"></canvas>
+      </div>
+    </div>
+
+    <div class="panel">
+      <div class="hint" id="tableCount"></div>
+      <table>
+        <thead>
+          <tr>
+            <th>Chain</th>
+            <th>Location</th>
+            <th>State</th>
+            <th>Published</th>
+            <th>Title</th>
+            <th>Source</th>
+          </tr>
+        </thead>
+        <tbody id="rows"></tbody>
+      </table>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.3/dist/chart.umd.min.js"></script>
+  <script
+    src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+    integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+    crossorigin=""
+  ></script>
+  <script>
+    const state = {
+      payload: null,
+      filtered: [],
+      map: null,
+      markersLayer: null,
+      monthChart: null,
+    };
+
+    const chainFilter = document.getElementById("chainFilter");
+    const stateFilter = document.getElementById("stateFilter");
+    const textFilter = document.getElementById("textFilter");
+
+    function fmtDate(value) {
+      if (!value) return "";
+      const d = new Date(value);
+      if (Number.isNaN(d.getTime())) return value;
+      return d.toLocaleDateString();
+    }
+
+    function createOption(value, text) {
+      const o = document.createElement("option");
+      o.value = value;
+      o.textContent = text;
+      return o;
+    }
+
+    function renderKpis(records) {
+      const withCoords = records.filter(r => Number.isFinite(r.latitude) && Number.isFinite(r.longitude)).length;
+      const chains = new Set(records.map(r => r.chain).filter(Boolean)).size;
+      const states = new Set(records.map(r => r.state).filter(Boolean)).size;
+      const grid = document.getElementById("kpiGrid");
+      grid.innerHTML = "";
+      [
+        ["Records", records.length],
+        ["With Coordinates", withCoords],
+        ["Chains", chains],
+        ["States", states]
+      ].forEach(([label, value]) => {
+        const card = document.createElement("div");
+        card.className = "kpi";
+        card.innerHTML = `<div class="label">${label}</div><div class="value">${value.toLocaleString()}</div>`;
+        grid.appendChild(card);
+      });
+    }
+
+    function renderTable(records) {
+      const rows = document.getElementById("rows");
+      rows.innerHTML = "";
+      const top = records.slice(0, 160);
+      top.forEach((r) => {
+        const tr = document.createElement("tr");
+        tr.innerHTML = `
+          <td>${r.chain || ""}</td>
+          <td>${r.location_text || ""}</td>
+          <td>${r.state || ""}</td>
+          <td>${fmtDate(r.published_utc || r.discovered_utc)}</td>
+          <td><a href="${r.article_url}" target="_blank" rel="noopener">${r.article_title || "(no title)"}</a></td>
+          <td>${r.source_domain || ""}</td>
+        `;
+        rows.appendChild(tr);
+      });
+      document.getElementById("tableCount").textContent = `Showing ${top.length} of ${records.length} matching records`;
+    }
+
+    function initMap() {
+      state.map = L.map("map", { zoomControl: true }).setView([39.8, -98.6], 4);
+      L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+        attribution: "&copy; OpenStreetMap contributors",
+      }).addTo(state.map);
+      state.markersLayer = L.layerGroup().addTo(state.map);
+    }
+
+    function renderMap(records) {
+      state.markersLayer.clearLayers();
+      const points = records.filter((r) => Number.isFinite(r.latitude) && Number.isFinite(r.longitude));
+      points.forEach((r) => {
+        const marker = L.circleMarker([r.latitude, r.longitude], {
+          radius: 5.5,
+          fillColor: r.chain === "CVS" ? "#0d6f89" : "#e27d27",
+          color: "#1c2a2f",
+          weight: 0.8,
+          opacity: 0.9,
+          fillOpacity: 0.85,
+        });
+        const popup = `
+          <div style="max-width: 280px">
+            <div><strong>${r.chain || ""}</strong></div>
+            <div>${r.location_text || ""}</div>
+            <div style="margin-top:6px"><a href="${r.article_url}" target="_blank" rel="noopener">${r.article_title || "Article"}</a></div>
+          </div>
+        `;
+        marker.bindPopup(popup);
+        marker.addTo(state.markersLayer);
+      });
+    }
+
+    function renderMonthChart(records) {
+      const counts = {};
+      records.forEach((r) => {
+        const value = r.published_utc || r.discovered_utc;
+        if (!value) return;
+        const d = new Date(value);
+        if (Number.isNaN(d.getTime())) return;
+        const key = `${d.getUTCFullYear()}-${String(d.getUTCMonth() + 1).padStart(2, "0")}`;
+        counts[key] = (counts[key] || 0) + 1;
+      });
+      const labels = Object.keys(counts).sort();
+      const values = labels.map((k) => counts[k]);
+      if (state.monthChart) {
+        state.monthChart.destroy();
+      }
+      state.monthChart = new Chart(document.getElementById("monthChart"), {
+        type: "bar",
+        data: {
+          labels,
+          datasets: [{
+            label: "Closure reports by month",
+            data: values,
+            backgroundColor: "#0d6f89",
+            borderColor: "#0b5e73",
+            borderWidth: 1
+          }]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          scales: {
+            y: { beginAtZero: true, ticks: { precision: 0 } }
+          }
+        }
+      });
+    }
+
+    function applyFilters() {
+      const chain = chainFilter.value;
+      const st = stateFilter.value;
+      const q = textFilter.value.trim().toLowerCase();
+      const all = state.payload.records || [];
+
+      state.filtered = all.filter((r) => {
+        if (chain !== "All" && r.chain !== chain) return false;
+        if (st !== "All" && r.state !== st) return false;
+        if (q) {
+          const hay = `${r.article_title || ""} ${r.location_text || ""}`.toLowerCase();
+          if (!hay.includes(q)) return false;
+        }
+        return true;
+      });
+
+      renderKpis(state.filtered);
+      renderMap(state.filtered);
+      renderMonthChart(state.filtered);
+      renderTable(state.filtered);
+    }
+
+    async function main() {
+      const response = await fetch("data/closures.json", { cache: "no-store" });
+      state.payload = await response.json();
+      const records = state.payload.records || [];
+
+      const chainValues = Array.from(new Set(records.map((r) => r.chain).filter(Boolean))).sort();
+      const stateValues = Array.from(new Set(records.map((r) => r.state).filter(Boolean))).sort();
+
+      chainFilter.innerHTML = "";
+      stateFilter.innerHTML = "";
+      chainFilter.appendChild(createOption("All", "All chains"));
+      stateFilter.appendChild(createOption("All", "All states"));
+      chainValues.forEach((v) => chainFilter.appendChild(createOption(v, v)));
+      stateValues.forEach((v) => stateFilter.appendChild(createOption(v, v)));
+
+      document.getElementById("generatedAt").textContent =
+        `Last build: ${fmtDate(state.payload.generated_utc)} (${state.payload.generated_utc || "n/a"})`;
+
+      initMap();
+      applyFilters();
+      chainFilter.addEventListener("change", applyFilters);
+      stateFilter.addEventListener("change", applyFilters);
+      textFilter.addEventListener("input", applyFilters);
+    }
+
+    main().catch((err) => {
+      console.error(err);
+      document.getElementById("tableCount").textContent =
+        "Failed to load dashboard data. Build docs/data/closures.json first.";
+    });
+  </script>
+</body>
+</html>
