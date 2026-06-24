@@ -1,9 +1,9 @@
 {
-  "generated_utc": "2026-06-23T12:54:58Z",
+  "generated_utc": "2026-06-24T12:30:36Z",
   "totals": {
-    "records": 228,
+    "records": 231,
     "with_coordinates": 0,
-    "without_coordinates": 228
+    "without_coordinates": 231
   },
   "breakdowns": {
     "by_chain": [
@@ -13,7 +13,7 @@
       },
       {
         "chain": "Walgreens",
-        "count": 188
+        "count": 191
       }
     ],
     "by_month": [
@@ -39,11 +39,11 @@
       },
       {
         "month": "2026-05",
-        "count": 77
+        "count": 78
       },
       {
         "month": "2026-06",
-        "count": 79
+        "count": 81
       }
     ],
     "by_state": [
@@ -67,7 +67,7 @@
     "by_source_domain": [
       {
         "source_domain": "www.bing.com",
-        "count": 163
+        "count": 166
       },
       {
         "source_domain": "www.foxnews.com",
@@ -4396,6 +4396,60 @@
       "source_type": "bing_rss",
       "published_utc": "2026-06-09T10:54:00+00:00",
       "discovered_utc": "2026-06-23T12:48:03+00:00",
+      "confidence": 0.37,
+      "evidence_snippet": "Local pharmacy chain steps in as Midtown Walgreens prepares to close With the Midtown Walgreens at 27th Street and North Avenue set to close on June 23, Hayat Pharmacy is encouraging residents to transfer prescriptions to the local chain.",
+      "query": "Walgreens pharmacy closed location"
+    },
+    {
+      "record_id": "79ed106af7d93ba427",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens to close Chicago store after losing over $1M due to rampant theft, falling sales",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a3bcda6e8414cd1b896fd6123926355&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2fcompanies%2fwalgreens-to-close-chicago-store-after-losing-over-1m-due-to-rampant-theft-falling-sales%2far-AA22WnEv&c=17942911988166189995&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-05-11T11:25:00+00:00",
+      "discovered_utc": "2026-06-24T12:29:26+00:00",
+      "confidence": 0.37,
+      "evidence_snippet": "Walgreens to close Chicago store after losing over $1M due to rampant theft, falling sales Walgreens announced plans to close a Chicago South Side store next month, citing elevated theft levels and declining prescription sales as key factors.",
+      "query": "Walgreens pharmacy closed location"
+    },
+    {
+      "record_id": "53d3eb718a505df83f",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens closing Chatham store as officials warn of pharmacy deserts",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a3bcda6e8414cd1b896fd6123926355&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fus%2fwalgreens-closing-chatham-store-as-officials-warn-of-pharmacy-deserts%2far-AA24PoKJ&c=1059940498486916831&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-06-04T15:28:00+00:00",
+      "discovered_utc": "2026-06-24T12:29:26+00:00",
+      "confidence": 0.37,
+      "evidence_snippet": "Walgreens closing Chatham store as officials warn of pharmacy deserts Walgreens is set to close in Chicago's Chatham neighborhood on Thursday, and there's growing concern about where families will get their medications.",
+      "query": "Walgreens pharmacy closed location"
+    },
+    {
+      "record_id": "87a3df566c87e66d81",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Local pharmacy chain steps in as Midtown Walgreens prepares to close",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a3bcda6e8414cd1b896fd6123926355&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fus%2flocal-pharmacy-chain-steps-in-as-midtown-walgreens-prepares-to-close%2far-AA25dpGI&c=4811352347859923765&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-06-09T10:54:00+00:00",
+      "discovered_utc": "2026-06-24T12:29:26+00:00",
       "confidence": 0.37,
       "evidence_snippet": "Local pharmacy chain steps in as Midtown Walgreens prepares to close With the Midtown Walgreens at 27th Street and North Avenue set to close on June 23, Hayat Pharmacy is encouraging residents to transfer prescriptions to the local chain.",
       "query": "Walgreens pharmacy closed location"
