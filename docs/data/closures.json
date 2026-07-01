@@ -1,19 +1,19 @@
 {
-  "generated_utc": "2026-06-30T12:24:22Z",
+  "generated_utc": "2026-07-01T12:49:05Z",
   "totals": {
-    "records": 311,
+    "records": 328,
     "with_coordinates": 0,
-    "without_coordinates": 311
+    "without_coordinates": 328
   },
   "breakdowns": {
     "by_chain": [
       {
         "chain": "CVS",
-        "count": 69
+        "count": 76
       },
       {
         "chain": "Walgreens",
-        "count": 242
+        "count": 252
       }
     ],
     "by_month": [
@@ -23,15 +23,15 @@
       },
       {
         "month": "2024-06",
-        "count": 14
+        "count": 15
       },
       {
         "month": "2024-12",
-        "count": 1
+        "count": 2
       },
       {
         "month": "2025-05",
-        "count": 18
+        "count": 21
       },
       {
         "month": "2025-08",
@@ -43,21 +43,21 @@
       },
       {
         "month": "2026-04",
-        "count": 50
+        "count": 53
       },
       {
         "month": "2026-05",
-        "count": 90
+        "count": 93
       },
       {
         "month": "2026-06",
-        "count": 109
+        "count": 115
       }
     ],
     "by_state": [
       {
         "state": "IL",
-        "count": 17
+        "count": 22
       },
       {
         "state": "MI",
@@ -75,7 +75,7 @@
     "by_source_domain": [
       {
         "source_domain": "www.bing.com",
-        "count": 246
+        "count": 263
       },
       {
         "source_domain": "www.foxnews.com",
@@ -5901,6 +5901,312 @@
       "confidence": 0.9,
       "evidence_snippet": "Walgreens to close Chatham store after more than $1M loss, cites theft and declining sales CHICAGO - For the first time, Walgreens is revealing some of the specific financial problems that prompted it to close a longtime location on Chicago's South Side.",
       "query": "Walgreens closing stores"
+    },
+    {
+      "record_id": "a6d55586a306be5210",
+      "chain": "CVS",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "CVS Closing 270 Stores Nationwide: List of Locations Impacted",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a450c1c24a74213b69d06e2823dbc47&url=https%3a%2f%2fwww.newsweek.com%2fcvs-closing-270-stores-locations-impacted-2077982&c=15167923728816176235&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2025-05-28T08:25:00+00:00",
+      "discovered_utc": "2026-07-01T12:48:08+00:00",
+      "confidence": 0.61,
+      "evidence_snippet": "In its recent annual report, filed in February, CVS announced that it would be closing 271 retail stores in 2025 as part of its \"enterprise-wide restructuring plan intended to streamline and simplify the organization.\" This follows the closure of around 900 lo",
+      "query": "CVS store closure location"
+    },
+    {
+      "record_id": "637a4f9a157142aaeb",
+      "chain": "CVS",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "CVS warns it may have to close over 100 more stores",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a450c1c24a74213b69d06e2823dbc47&url=https%3a%2f%2fwww.thestreet.com%2fhealth%2fcvs-fights-law-that-could-force-134-stores-to-close-fair-rx&c=2158066446006967284&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-04-23T12:18:00+00:00",
+      "discovered_utc": "2026-07-01T12:48:08+00:00",
+      "confidence": 0.37,
+      "evidence_snippet": "CVS warns it may have to close over 100 more stores A sweeping new health care law is setting up a high-stakes battle over prescription drug pricing, corporate power, and patient access.",
+      "query": "CVS store closure location"
+    },
+    {
+      "record_id": "048a4bc317716b610d",
+      "chain": "CVS",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "CVS fights law that could force over 100 stores to close",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a450c1c24a74213b69d06e2823dbc47&url=https%3a%2f%2fwww.msn.com%2fen-us%2fhealth%2fother%2fcvs-fights-law-that-could-force-over-100-stores-to-close%2far-AA21zQvb&c=11080782629388182880&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-04-23T12:25:00+00:00",
+      "discovered_utc": "2026-07-01T12:48:08+00:00",
+      "confidence": 0.37,
+      "evidence_snippet": "CVS fights law that could force over 100 stores to close A sweeping new health care law is setting up a high-stakes battle over prescription drug pricing, corporate power, and patient access.",
+      "query": "CVS store closure location"
+    },
+    {
+      "record_id": "fb9557895d05099e4f",
+      "chain": "CVS",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "CVS Closing 270 Stores Nationwide: List of Locations Impacted",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a450c36dcab410388c11eeda44686d4&url=https%3a%2f%2fwww.newsweek.com%2fcvs-closing-270-stores-locations-impacted-2077982&c=15167923728816176235&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2025-05-28T08:25:00+00:00",
+      "discovered_utc": "2026-07-01T12:48:08+00:00",
+      "confidence": 0.61,
+      "evidence_snippet": "In its recent annual report, filed in February, CVS announced that it would be closing 271 retail stores in 2025 as part of its \"enterprise-wide restructuring plan intended to streamline and simplify the organization.\" This follows the closure of around 900 lo",
+      "query": "CVS closing stores"
+    },
+    {
+      "record_id": "87336616b497746040",
+      "chain": "CVS",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "CVS fights law that could force over 100 stores to close",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a450c36dcab410388c11eeda44686d4&url=https%3a%2f%2fwww.aol.com%2ffinance%2fcvs-fights-law-could-force-161300320.html&c=6327375268730961832&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-04-22T16:59:00+00:00",
+      "discovered_utc": "2026-07-01T12:48:08+00:00",
+      "confidence": 0.61,
+      "evidence_snippet": "CVS fights law that could force over 100 stores to close A sweeping new health care law is setting up a high-stakes battle over prescription drug pricing, corporate power, and patient access.",
+      "query": "CVS closing stores"
+    },
+    {
+      "record_id": "0bc92e6a2e12d2f521",
+      "chain": "CVS",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "US store closings up 69% in 2024 amid Big Lots, CVS, Family Dollar cuts",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a450c36dcab410388c11eeda44686d4&url=https%3a%2f%2fwww.abc15.com%2fbusiness%2fcompany-news%2fus-store-closings-up-69-in-2024-amid-big-lots-cvs-family-dollar-cuts&c=938104820326025808&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2024-12-19T02:19:00+00:00",
+      "discovered_utc": "2026-07-01T12:48:08+00:00",
+      "confidence": 0.9,
+      "evidence_snippet": "RELATED STORY | Big Lots files for bankruptcy, says more stores could close Family Dollar has closed the largest number of stores, with 718 confirmed closings.",
+      "query": "CVS closing stores"
+    },
+    {
+      "record_id": "791911d01c78fc98d4",
+      "chain": "CVS",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "CVS Closing 270 Stores Nationwide: List of Locations Impacted",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a450c4f04e347938a25a3f091964a4f&url=https%3a%2f%2fwww.newsweek.com%2fcvs-closing-270-stores-locations-impacted-2077982&c=15167923728816176235&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2025-05-28T08:25:00+00:00",
+      "discovered_utc": "2026-07-01T12:48:08+00:00",
+      "confidence": 0.61,
+      "evidence_snippet": "In its recent annual report, filed in February, CVS announced that it would be closing 271 retail stores in 2025 as part of its \"enterprise-wide restructuring plan intended to streamline and simplify the organization.\" This follows the closure of around 900 lo",
+      "query": "CVS pharmacy closed location"
+    },
+    {
+      "record_id": "02cc1f5e7e3fcd233a",
+      "chain": "Walgreens",
+      "location_text": "Chicago, IL",
+      "city": "Chicago",
+      "state": "IL",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens closes Midtown location, the eighth shuttered in three years",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a450c64d0ce43cebb4b67df1c69debc&url=https%3a%2f%2fwww.yahoo.com%2fnews%2fus%2farticles%2fwalgreens-closes-midtown-location-eighth-185356837.html&c=16834571838889409791&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-06-23T12:12:00+00:00",
+      "discovered_utc": "2026-07-01T12:48:08+00:00",
+      "confidence": 1.0,
+      "evidence_snippet": "Walgreens closes Midtown location, the eighth shuttered in three years Walgreens is closing its Midtown store due to safety concerns, leaving residents to find new pharmacy options.",
+      "query": "Walgreens store closure location"
+    },
+    {
+      "record_id": "38e34f09dd607c415b",
+      "chain": "Walgreens",
+      "location_text": "Chicago, IL",
+      "city": "Chicago",
+      "state": "IL",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens to close Midtown store on Milwaukee\u2019s North Avenue",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a450c64d0ce43cebb4b67df1c69debc&url=https%3a%2f%2fwww.aol.com%2fnews%2fwalgreens-close-midtown-store-milwaukee-211103214.html&c=2184905918024052444&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-05-04T14:11:00+00:00",
+      "discovered_utc": "2026-07-01T12:48:08+00:00",
+      "confidence": 1.0,
+      "evidence_snippet": "Walgreens to close Midtown store on Milwaukee\u2019s North Avenue In another blow to Milwaukee\u2019s grocery and pharmacy landscape, Walgreens has begun to notify customers that its midtown location at 2727 W.",
+      "query": "Walgreens store closure location"
+    },
+    {
+      "record_id": "71c0cdb6374469cbe2",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Local pharmacy chain steps in as Midtown Walgreens prepares to close",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a450c64d0ce43cebb4b67df1c69debc&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fus%2flocal-pharmacy-chain-steps-in-as-midtown-walgreens-prepares-to-close%2far-AA25dpGI&c=4811352347859923765&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-06-09T11:39:00+00:00",
+      "discovered_utc": "2026-07-01T12:48:08+00:00",
+      "confidence": 0.37,
+      "evidence_snippet": "Local pharmacy chain steps in as Midtown Walgreens prepares to close With the Midtown Walgreens at 27th Street and North Avenue set to close on June 23, Hayat Pharmacy is encouraging residents to transfer prescriptions to the local chain.",
+      "query": "Walgreens store closure location"
+    },
+    {
+      "record_id": "ee7d371ebededd531e",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens closing numerous stores amid 'challenging' retail environment",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a450c72a2854376855a916a648fbdb1&url=https%3a%2f%2fwww.wptv.com%2fbusiness%2fcompany-news%2fwalgreens-closing-numerous-stores-amid-challenging-retail-environment&c=6863907681722574937&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2024-06-26T22:44:00+00:00",
+      "discovered_utc": "2026-07-01T12:48:08+00:00",
+      "confidence": 0.49,
+      "evidence_snippet": "Walgreens closing numerous stores amid 'challenging' retail environment Walgreens, one of America's largest pharmacy chains, announced early Thursday plans to close numerous stores across the U.S.",
+      "query": "Walgreens closing stores"
+    },
+    {
+      "record_id": "230ab8dd081a060027",
+      "chain": "Walgreens",
+      "location_text": "Chicago, IL",
+      "city": "Chicago",
+      "state": "IL",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens closes Midtown location, the eighth shuttered in three years",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a450c72a2854376855a916a648fbdb1&url=https%3a%2f%2fwww.yahoo.com%2fnews%2fus%2farticles%2fwalgreens-closes-midtown-location-eighth-185356837.html&c=16834571838889409791&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-06-23T12:12:00+00:00",
+      "discovered_utc": "2026-07-01T12:48:08+00:00",
+      "confidence": 1.0,
+      "evidence_snippet": "Walgreens closes Midtown location, the eighth shuttered in three years Walgreens is closing its Midtown store due to safety concerns, leaving residents to find new pharmacy options.",
+      "query": "Walgreens closing stores"
+    },
+    {
+      "record_id": "8466f7755d1097c463",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Milwaukee Walgreens closed, 27th and North; what to know",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a450c72a2854376855a916a648fbdb1&url=https%3a%2f%2fwww.msn.com%2fen-us%2flifestyle%2flifestyle-buzz%2fmilwaukee-walgreens-closed-27th-and-north-what-to-know%2far-AA26nJXv&c=902736325891801050&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-06-23T14:05:59+00:00",
+      "discovered_utc": "2026-07-01T12:48:08+00:00",
+      "confidence": 0.26,
+      "evidence_snippet": "Milwaukee Walgreens closed, 27th and North; what to know A Walgreens location on Milwaukee's north side shut down on Tuesday.",
+      "query": "Walgreens closing stores"
+    },
+    {
+      "record_id": "a47011e46741364eb0",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens to close Chatham store after more than $1M loss, cites theft and declining sales",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a450c72a2854376855a916a648fbdb1&url=https%3a%2f%2fwww.aol.com%2fnews%2fwalgreens-close-chatham-store-more-023340460.html&c=6188010764375494095&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-05-09T16:59:00+00:00",
+      "discovered_utc": "2026-07-01T12:48:08+00:00",
+      "confidence": 0.9,
+      "evidence_snippet": "Walgreens to close Chatham store after more than $1M loss, cites theft and declining sales CHICAGO - For the first time, Walgreens is revealing some of the specific financial problems that prompted it to close a longtime location on Chicago's South Side.",
+      "query": "Walgreens closing stores"
+    },
+    {
+      "record_id": "cbb98beb37874df081",
+      "chain": "Walgreens",
+      "location_text": "Chicago, IL",
+      "city": "Chicago",
+      "state": "IL",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens to close Midtown store on Milwaukee\u2019s North Avenue",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a450c72a2854376855a916a648fbdb1&url=https%3a%2f%2fwww.aol.com%2farticles%2fwalgreens-close-midtown-store-milwaukee-211103214.html&c=2790933303493612534&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-05-07T14:56:00+00:00",
+      "discovered_utc": "2026-07-01T12:48:08+00:00",
+      "confidence": 1.0,
+      "evidence_snippet": "Walgreens to close Midtown store on Milwaukee\u2019s North Avenue In another blow to Milwaukee's grocery and pharmacy landscape, Walgreens has begun to notify customers that its midtown location at 2727 W.",
+      "query": "Walgreens closing stores"
+    },
+    {
+      "record_id": "a10a77832e45798c32",
+      "chain": "Walgreens",
+      "location_text": "Chicago, IL",
+      "city": "Chicago",
+      "state": "IL",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens closes Midtown location, the eighth shuttered in three years",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a450c870fdd4669a6d88b0dd602d659&url=https%3a%2f%2fwww.yahoo.com%2fnews%2fus%2farticles%2fwalgreens-closes-midtown-location-eighth-185356837.html&c=16834571838889409791&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-06-23T12:12:00+00:00",
+      "discovered_utc": "2026-07-01T12:48:08+00:00",
+      "confidence": 1.0,
+      "evidence_snippet": "Walgreens closes Midtown location, the eighth shuttered in three years Walgreens is closing its Midtown store due to safety concerns, leaving residents to find new pharmacy options.",
+      "query": "Walgreens pharmacy closed location"
+    },
+    {
+      "record_id": "5b34b75e3f98db8804",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Local pharmacy chain steps in as Midtown Walgreens prepares to close",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a450c870fdd4669a6d88b0dd602d659&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fus%2flocal-pharmacy-chain-steps-in-as-midtown-walgreens-prepares-to-close%2far-AA25dpGI&c=4811352347859923765&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-06-09T11:39:00+00:00",
+      "discovered_utc": "2026-07-01T12:48:08+00:00",
+      "confidence": 0.37,
+      "evidence_snippet": "Local pharmacy chain steps in as Midtown Walgreens prepares to close With the Midtown Walgreens at 27th Street and North Avenue set to close on June 23, Hayat Pharmacy is encouraging residents to transfer prescriptions to the local chain.",
+      "query": "Walgreens pharmacy closed location"
     }
   ]
 }
