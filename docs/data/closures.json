@@ -1,19 +1,19 @@
 {
-  "generated_utc": "2026-07-12T11:23:52Z",
+  "generated_utc": "2026-07-13T12:43:34Z",
   "totals": {
-    "records": 478,
+    "records": 482,
     "with_coordinates": 0,
-    "without_coordinates": 478
+    "without_coordinates": 482
   },
   "breakdowns": {
     "by_chain": [
       {
         "chain": "CVS",
-        "count": 131
+        "count": 134
       },
       {
         "chain": "Walgreens",
-        "count": 347
+        "count": 348
       }
     ],
     "by_month": [
@@ -27,11 +27,11 @@
       },
       {
         "month": "2024-10",
-        "count": 6
+        "count": 7
       },
       {
         "month": "2024-12",
-        "count": 11
+        "count": 12
       },
       {
         "month": "2025-05",
@@ -55,7 +55,7 @@
       },
       {
         "month": "2026-04",
-        "count": 66
+        "count": 67
       },
       {
         "month": "2026-05",
@@ -63,7 +63,7 @@
       },
       {
         "month": "2026-06",
-        "count": 169
+        "count": 170
       },
       {
         "month": "2026-07",
@@ -99,7 +99,7 @@
     "by_source_domain": [
       {
         "source_domain": "www.bing.com",
-        "count": 410
+        "count": 414
       },
       {
         "source_domain": "www.foxnews.com",
@@ -8940,6 +8940,78 @@
       "source_type": "bing_rss",
       "published_utc": "2026-06-23T18:33:00+00:00",
       "discovered_utc": "2026-07-12T11:23:34+00:00",
+      "confidence": 0.73,
+      "evidence_snippet": "Milwaukee Walgreens closed, 27th and North; what to know A Walgreens location on Milwaukee's north side shut down on Tuesday.",
+      "query": "Walgreens pharmacy closed location"
+    },
+    {
+      "record_id": "9e47e28bbde9bdbbe6",
+      "chain": "CVS",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Why your drug store is closing",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a54dd083e8d4591b43c608c2cad7560&url=https%3a%2f%2fsports.yahoo.com%2farticles%2fwhy-drug-store-closing-090038973.html&c=10053318772980558761&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2024-10-15T16:59:00+00:00",
+      "discovered_utc": "2026-07-13T12:43:18+00:00",
+      "confidence": 0.61,
+      "evidence_snippet": "Walgreens announced Tuesday it plans to close 1,200 stores, meaning 1 in 7 will disappear.",
+      "query": "CVS closing stores"
+    },
+    {
+      "record_id": "e9425e6cbec1e7841b",
+      "chain": "CVS",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "CVS fights law that could force over 100 stores to close",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a54dd083e8d4591b43c608c2cad7560&url=https%3a%2f%2fwww.aol.com%2ffinance%2fcvs-fights-law-could-force-161300320.html&c=6327375268730961832&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-04-22T16:59:00+00:00",
+      "discovered_utc": "2026-07-13T12:43:18+00:00",
+      "confidence": 0.61,
+      "evidence_snippet": "CVS fights law that could force over 100 stores to close A sweeping new health care law is setting up a high-stakes battle over prescription drug pricing, corporate power, and patient access.",
+      "query": "CVS closing stores"
+    },
+    {
+      "record_id": "b7da33e09e1188d06f",
+      "chain": "CVS",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "US store closings up 69% in 2024 amid Big Lots, CVS, Family Dollar cuts",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a54dd083e8d4591b43c608c2cad7560&url=https%3a%2f%2fwww.abc15.com%2fbusiness%2fcompany-news%2fus-store-closings-up-69-in-2024-amid-big-lots-cvs-family-dollar-cuts&c=938104820326025808&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2024-12-19T02:19:00+00:00",
+      "discovered_utc": "2026-07-13T12:43:18+00:00",
+      "confidence": 0.9,
+      "evidence_snippet": "RELATED STORY | Big Lots files for bankruptcy, says more stores could close Family Dollar has closed the largest number of stores, with 718 confirmed closings.",
+      "query": "CVS closing stores"
+    },
+    {
+      "record_id": "b81b789bd719e7fd31",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Milwaukee Walgreens closed, 27th and North; what to know",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a54dd6640c1456a97dfd9fbfcd31295&url=https%3a%2f%2fwww.yahoo.com%2fnews%2fus%2farticles%2fmilwaukee-walgreens-closed-27th-north-210559368.html&c=8981508418109461224&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-06-23T18:33:00+00:00",
+      "discovered_utc": "2026-07-13T12:43:18+00:00",
       "confidence": 0.73,
       "evidence_snippet": "Milwaukee Walgreens closed, 27th and North; what to know A Walgreens location on Milwaukee's north side shut down on Tuesday.",
       "query": "Walgreens pharmacy closed location"
