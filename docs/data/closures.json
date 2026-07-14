@@ -1,19 +1,19 @@
 {
-  "generated_utc": "2026-07-13T12:43:34Z",
+  "generated_utc": "2026-07-14T11:43:30Z",
   "totals": {
-    "records": 482,
+    "records": 487,
     "with_coordinates": 0,
-    "without_coordinates": 482
+    "without_coordinates": 487
   },
   "breakdowns": {
     "by_chain": [
       {
         "chain": "CVS",
-        "count": 134
+        "count": 136
       },
       {
         "chain": "Walgreens",
-        "count": 348
+        "count": 351
       }
     ],
     "by_month": [
@@ -23,15 +23,15 @@
       },
       {
         "month": "2024-06",
-        "count": 18
+        "count": 19
       },
       {
         "month": "2024-10",
-        "count": 7
+        "count": 8
       },
       {
         "month": "2024-12",
-        "count": 12
+        "count": 13
       },
       {
         "month": "2025-05",
@@ -55,7 +55,7 @@
       },
       {
         "month": "2026-04",
-        "count": 67
+        "count": 68
       },
       {
         "month": "2026-05",
@@ -63,7 +63,7 @@
       },
       {
         "month": "2026-06",
-        "count": 170
+        "count": 171
       },
       {
         "month": "2026-07",
@@ -99,7 +99,7 @@
     "by_source_domain": [
       {
         "source_domain": "www.bing.com",
-        "count": 414
+        "count": 419
       },
       {
         "source_domain": "www.foxnews.com",
@@ -9015,6 +9015,96 @@
       "confidence": 0.73,
       "evidence_snippet": "Milwaukee Walgreens closed, 27th and North; what to know A Walgreens location on Milwaukee's north side shut down on Tuesday.",
       "query": "Walgreens pharmacy closed location"
+    },
+    {
+      "record_id": "41853c3e456088cbdc",
+      "chain": "CVS",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "CVS fights law that could force over 100 stores to close",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a5620b6990d4aeb97936a09052399be&url=https%3a%2f%2fwww.aol.com%2ffinance%2fcvs-fights-law-could-force-161300320.html&c=6327375268730961832&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-04-22T16:59:00+00:00",
+      "discovered_utc": "2026-07-14T11:43:27+00:00",
+      "confidence": 0.61,
+      "evidence_snippet": "CVS fights law that could force over 100 stores to close A sweeping new health care law is setting up a high-stakes battle over prescription drug pricing, corporate power, and patient access.",
+      "query": "CVS closing stores"
+    },
+    {
+      "record_id": "bc98ee1a7e951e0939",
+      "chain": "CVS",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "US store closings up 69% in 2024 amid Big Lots, CVS, Family Dollar cuts",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a5620b6990d4aeb97936a09052399be&url=https%3a%2f%2fwww.abc15.com%2fbusiness%2fcompany-news%2fus-store-closings-up-69-in-2024-amid-big-lots-cvs-family-dollar-cuts&c=938104820326025808&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2024-12-19T02:19:00+00:00",
+      "discovered_utc": "2026-07-14T11:43:27+00:00",
+      "confidence": 0.9,
+      "evidence_snippet": "RELATED STORY | Big Lots files for bankruptcy, says more stores could close Family Dollar has closed the largest number of stores, with 718 confirmed closings.",
+      "query": "CVS closing stores"
+    },
+    {
+      "record_id": "57c1fd7f6bb906a54a",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens closing numerous stores amid 'challenging' retail environment",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a5620d48685485f9a28e6c512b031b1&url=https%3a%2f%2fwww.wptv.com%2fbusiness%2fcompany-news%2fwalgreens-closing-numerous-stores-amid-challenging-retail-environment&c=6863907681722574937&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2024-06-26T22:44:00+00:00",
+      "discovered_utc": "2026-07-14T11:43:27+00:00",
+      "confidence": 0.49,
+      "evidence_snippet": "Walgreens closing numerous stores amid 'challenging' retail environment Walgreens, one of America's largest pharmacy chains, announced early Thursday plans to close numerous stores across the U.S.",
+      "query": "Walgreens closing stores"
+    },
+    {
+      "record_id": "151ed781d19f46be92",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens closing Chatham store as officials warn of pharmacy deserts",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a5620d48685485f9a28e6c512b031b1&url=https%3a%2f%2fwww.cbsnews.com%2fchicago%2fnews%2fwalgreens-closing-chatham-thursday%2f&c=3904880234451535368&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-06-04T04:09:00+00:00",
+      "discovered_utc": "2026-07-14T11:43:27+00:00",
+      "confidence": 0.49,
+      "evidence_snippet": "Walgreens closing Chatham store as officials warn of pharmacy deserts Walgreens is set to close in Chicago's Chatham neighborhood on Thursday, and there's growing concern about where families will get their medications.",
+      "query": "Walgreens closing stores"
+    },
+    {
+      "record_id": "5741c4c3980faab4a1",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens says it's closing 1,200 'underperforming' stores amid soft sales",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a5620d48685485f9a28e6c512b031b1&url=https%3a%2f%2fwww.koaa.com%2fbusiness%2fcompany-news%2fwalgreens-says-its-closing-1-200-underperforming-stores-amid-soft-sales&c=4479475427048052718&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2024-10-15T06:43:00+00:00",
+      "discovered_utc": "2026-07-14T11:43:27+00:00",
+      "confidence": 0.49,
+      "evidence_snippet": "Walgreens says it's closing 1,200 'underperforming' stores amid soft sales Walgreens announced on Tuesday plans to close 1,200 \"underperforming\" locations by 2027, including about 500 in 2025.",
+      "query": "Walgreens closing stores"
     }
   ]
 }
