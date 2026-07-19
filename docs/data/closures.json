@@ -1,19 +1,19 @@
 {
-  "generated_utc": "2026-07-18T11:19:17Z",
+  "generated_utc": "2026-07-19T11:22:32Z",
   "totals": {
-    "records": 514,
+    "records": 530,
     "with_coordinates": 0,
-    "without_coordinates": 514
+    "without_coordinates": 530
   },
   "breakdowns": {
     "by_chain": [
       {
         "chain": "CVS",
-        "count": 141
+        "count": 142
       },
       {
         "chain": "Walgreens",
-        "count": 373
+        "count": 388
       }
     ],
     "by_month": [
@@ -27,7 +27,7 @@
       },
       {
         "month": "2024-10",
-        "count": 12
+        "count": 14
       },
       {
         "month": "2024-12",
@@ -35,7 +35,7 @@
       },
       {
         "month": "2025-05",
-        "count": 36
+        "count": 38
       },
       {
         "month": "2025-07",
@@ -59,11 +59,11 @@
       },
       {
         "month": "2026-05",
-        "count": 132
+        "count": 141
       },
       {
         "month": "2026-06",
-        "count": 179
+        "count": 182
       },
       {
         "month": "2026-07",
@@ -73,7 +73,7 @@
     "by_state": [
       {
         "state": "IL",
-        "count": 72
+        "count": 76
       },
       {
         "state": "MI",
@@ -99,7 +99,7 @@
     "by_source_domain": [
       {
         "source_domain": "www.bing.com",
-        "count": 442
+        "count": 458
       },
       {
         "source_domain": "www.foxnews.com",
@@ -9603,6 +9603,294 @@
       "confidence": 0.72,
       "evidence_snippet": "Walgreens to close Midtown store on Milwaukee\u2019s North Avenue In another blow to Milwaukee\u2019s grocery and pharmacy landscape, Walgreens has begun to notify customers that its midtown location at 2727 W.",
       "query": "Walgreens closing stores"
+    },
+    {
+      "record_id": "73faddd12475474a87",
+      "chain": "CVS",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Why your drug store is closing",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a5cb316f0f84dfb8112f32868523c80&url=https%3a%2f%2fsports.yahoo.com%2farticles%2fwhy-drug-store-closing-090038973.html&c=10053318772980558761&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2024-10-16T02:00:00+00:00",
+      "discovered_utc": "2026-07-19T11:21:48+00:00",
+      "confidence": 0.61,
+      "evidence_snippet": "Walgreens announced Tuesday it plans to close 1,200 stores, meaning 1 in 7 will disappear.",
+      "query": "CVS closing stores"
+    },
+    {
+      "record_id": "87bde71a3bdc583b3f",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens to close Chatham store amid theft and safety concerns",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a5cb333a5de40b2a3bf3f9ac63965b3&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fwalgreens-to-close-chatham-store-amid-theft-and-safety-concerns%2fgm-GM73C02D4E&c=9380206727898205436&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-05-09T20:17:00+00:00",
+      "discovered_utc": "2026-07-19T11:21:48+00:00",
+      "confidence": 0.61,
+      "evidence_snippet": "Walgreens to close Chatham store amid theft and safety concerns Closure date set: The Chatham Walgreens will shut down on June 4 after reporting over $1 million in losses last year.",
+      "query": "Walgreens store closure location"
+    },
+    {
+      "record_id": "e77b50f3a89fd813bd",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Community leaders speak out ahead of Chatham Walgreens store closure next month",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a5cb333a5de40b2a3bf3f9ac63965b3&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fcommunity-leaders-to-speak-out-ahead-of-chatham-walgreens-store-closure-next-month%2far-AA22lArm&c=375227067223680103&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-05-04T15:31:00+00:00",
+      "discovered_utc": "2026-07-19T11:21:48+00:00",
+      "confidence": 0.61,
+      "evidence_snippet": "Community leaders speak out ahead of Chatham Walgreens store closure next month Six Walgreens have closed on the city's South Side during the past year.",
+      "query": "Walgreens store closure location"
+    },
+    {
+      "record_id": "9301e0bb2adc0dfafc",
+      "chain": "Walgreens",
+      "location_text": "Chicago, IL",
+      "city": "Chicago",
+      "state": "IL",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens to close Midtown store on Milwaukee\u2019s North Avenue",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a5cb333a5de40b2a3bf3f9ac63965b3&url=https%3a%2f%2fwww.aol.com%2farticles%2fwalgreens-close-midtown-store-milwaukee-211103000.html&c=5718284648900016917&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-05-04T14:11:00+00:00",
+      "discovered_utc": "2026-07-19T11:21:48+00:00",
+      "confidence": 1.0,
+      "evidence_snippet": "Walgreens to close Midtown store on Milwaukee\u2019s North Avenue In another blow to Milwaukee\u2019s grocery and pharmacy landscape, Walgreens has begun to notify customers that its midtown location at 2727 W.",
+      "query": "Walgreens store closure location"
+    },
+    {
+      "record_id": "fb7079f18d0b21a1dd",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens to close Chatham store after more than $1M loss, cites theft and declining sales",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a5cb333a5de40b2a3bf3f9ac63965b3&url=https%3a%2f%2fwww.aol.com%2fnews%2fwalgreens-close-chatham-store-more-023340460.html&c=6188010764375494095&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-05-09T19:33:00+00:00",
+      "discovered_utc": "2026-07-19T11:21:48+00:00",
+      "confidence": 0.9,
+      "evidence_snippet": "Walgreens to close Chatham store after more than $1M loss, cites theft and declining sales CHICAGO - For the first time, Walgreens is revealing some of the specific financial problems that prompted it to close a longtime location on Chicago's South Side.",
+      "query": "Walgreens store closure location"
+    },
+    {
+      "record_id": "86659dfa7a895572b5",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens closing Chatham store as officials warn of pharmacy deserts",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a5cb333a5de40b2a3bf3f9ac63965b3&url=https%3a%2f%2fwww.cbsnews.com%2fchicago%2fnews%2fwalgreens-closing-chatham-thursday%2f&c=3904880234451535368&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-06-04T15:28:00+00:00",
+      "discovered_utc": "2026-07-19T11:21:48+00:00",
+      "confidence": 0.49,
+      "evidence_snippet": "has experienced \"significantly higher levels of theft and violent incidents than our other locations.\" The spokesperson said the drug store giant has made adjustments to the operations at the store and taken other steps to mitigate the issue, but \"ongoing safe",
+      "query": "Walgreens store closure location"
+    },
+    {
+      "record_id": "e1a41446e3f5d312aa",
+      "chain": "Walgreens",
+      "location_text": "Chicago, IL",
+      "city": "Chicago",
+      "state": "IL",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Local pharmacy chain steps in as Midtown Walgreens prepares to close",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a5cb333a5de40b2a3bf3f9ac63965b3&url=https%3a%2f%2fwww.jsonline.com%2fstory%2fnews%2flocal%2fmilwaukee%2fneighborhoods%2f2026%2f06%2f09%2fhayat-pharmacy-hosts-prescription-transfer-event-ahead-of-midtown-walgreens-closure%2f90389536007%2f&c=2976355734085642364&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-06-09T11:41:00+00:00",
+      "discovered_utc": "2026-07-19T11:21:48+00:00",
+      "confidence": 0.79,
+      "evidence_snippet": "Local pharmacy chain steps in as Midtown Walgreens prepares to close With the Midtown Walgreens at 27th Street and North Avenue set to close on June 23, Hayat Pharmacy is encouraging residents to transfer prescriptions to the local chain.",
+      "query": "Walgreens store closure location"
+    },
+    {
+      "record_id": "383c8042271396fb92",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens closing Chatham store as officials warn of pharmacy deserts",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a5cb33da451442385da1815fe47732b&url=https%3a%2f%2fwww.cbsnews.com%2fchicago%2fnews%2fwalgreens-closing-chatham-thursday%2f&c=3904880234451535368&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-06-04T15:28:00+00:00",
+      "discovered_utc": "2026-07-19T11:21:48+00:00",
+      "confidence": 0.49,
+      "evidence_snippet": "has experienced \"significantly higher levels of theft and violent incidents than our other locations.\" The spokesperson said the drug store giant has made adjustments to the operations at the store and taken other steps to mitigate the issue, but \"ongoing safe",
+      "query": "Walgreens closing stores"
+    },
+    {
+      "record_id": "5653fa5625608379dc",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens to close Midtown store on Milwaukee\u2019s North Avenue",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a5cb33da451442385da1815fe47732b&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fwalgreens-to-close-midtown-store-on-milwaukee-s-north-avenue%2far-AA22nH5N&c=13671027700461977555&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-05-07T14:56:00+00:00",
+      "discovered_utc": "2026-07-19T11:21:48+00:00",
+      "confidence": 0.72,
+      "evidence_snippet": "Walgreens to close Midtown store on Milwaukee\u2019s North Avenue In another blow to Milwaukee\u2019s grocery and pharmacy landscape, Walgreens has begun to notify customers that its midtown location at 2727 W.",
+      "query": "Walgreens closing stores"
+    },
+    {
+      "record_id": "082203340aa73265d3",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens to close another South Side Chicago store, citing theft and \u2018violent incidents\u2019",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a5cb33da451442385da1815fe47732b&url=https%3a%2f%2fwww.yahoo.com%2fnews%2farticles%2fwalgreens-close-another-south-side-222800331.html&c=4817525819358460219&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-05-01T15:28:00+00:00",
+      "discovered_utc": "2026-07-19T11:21:48+00:00",
+      "confidence": 0.9,
+      "evidence_snippet": "Walgreens to close another South Side Chicago store, citing theft and \u2018violent incidents\u2019 Walgreens is planning to close another South Side location, citing theft and violent incidents \u2014 a move that's drawing the ire of local leaders who say their communities ",
+      "query": "Walgreens closing stores"
+    },
+    {
+      "record_id": "77dfe86993d445b18b",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens to close Chatham store after more than $1M loss, cites theft and declining sales",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a5cb33da451442385da1815fe47732b&url=https%3a%2f%2fwww.aol.com%2fnews%2fwalgreens-close-chatham-store-more-023340460.html&c=6188010764375494095&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-05-09T19:33:00+00:00",
+      "discovered_utc": "2026-07-19T11:21:48+00:00",
+      "confidence": 0.9,
+      "evidence_snippet": "Walgreens to close Chatham store after more than $1M loss, cites theft and declining sales CHICAGO - For the first time, Walgreens is revealing some of the specific financial problems that prompted it to close a longtime location on Chicago's South Side.",
+      "query": "Walgreens closing stores"
+    },
+    {
+      "record_id": "0188b7079305bce5b1",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens to close 1,200 US stores. Where in Georgia?",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a5cb33da451442385da1815fe47732b&url=https%3a%2f%2fwww.detroitnews.com%2fstory%2fnews%2flocal%2f2025%2f05%2f23%2fwalgreens-to-close-1200-us-stores-where-in-georgia-savannah-athens-augusta%2f83796063007%2f&c=12938192235493096402&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2025-05-23T03:03:00+00:00",
+      "discovered_utc": "2026-07-19T11:21:48+00:00",
+      "confidence": 0.9,
+      "evidence_snippet": "Walgreens to close 1,200 US stores.",
+      "query": "Walgreens closing stores"
+    },
+    {
+      "record_id": "bd04126557656e0c7e",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens is closing 1,200 stores by 2027. Which Wisconsin stores could be affected?",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a5cb33da451442385da1815fe47732b&url=https%3a%2f%2fwww.detroitnews.com%2fstory%2fmoney%2fbusiness%2fretail%2f2024%2f10%2f15%2fwalgreens-is-closing-1200-stores-by-2027-which-wisconsin-stores-could-close%2f75683725007%2f&c=7520587805005820965&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2024-10-15T04:08:00+00:00",
+      "discovered_utc": "2026-07-19T11:21:48+00:00",
+      "confidence": 0.61,
+      "evidence_snippet": "The drugstore chain Walgreens plans to close ...",
+      "query": "Walgreens closing stores"
+    },
+    {
+      "record_id": "0b03df33700383cf83",
+      "chain": "Walgreens",
+      "location_text": "Chicago, IL",
+      "city": "Chicago",
+      "state": "IL",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens to close Midtown store on Milwaukee\u2019s North Avenue",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a5cb33da451442385da1815fe47732b&url=https%3a%2f%2fwww.yahoo.com%2fnews%2farticles%2fwalgreens-close-midtown-store-milwaukee-211103843.html&c=8243705176335985054&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-05-04T14:11:00+00:00",
+      "discovered_utc": "2026-07-19T11:21:48+00:00",
+      "confidence": 1.0,
+      "evidence_snippet": "Walgreens to close Midtown store on Milwaukee\u2019s North Avenue Add Yahoo as a preferred source to see more of our stories on Google.",
+      "query": "Walgreens closing stores"
+    },
+    {
+      "record_id": "8c9a1158355bf9693c",
+      "chain": "Walgreens",
+      "location_text": "Chicago, IL",
+      "city": "Chicago",
+      "state": "IL",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Closed King Drive Walgreens can\u2019t reopen as pharmacy without approval",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a5cb34cf5ce4fda8f0ed3ac0d171af9&url=https%3a%2f%2fwww.yahoo.com%2fnews%2fus%2farticles%2fclosed-king-drive-walgreens-t-102152427.html&c=8417137540600450529&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-05-29T03:22:00+00:00",
+      "discovered_utc": "2026-07-19T11:21:48+00:00",
+      "confidence": 1.0,
+      "evidence_snippet": "Closed King Drive Walgreens can\u2019t reopen as pharmacy without approval Add Yahoo as a preferred source to see more of our stories on Google.",
+      "query": "Walgreens pharmacy closed location"
+    },
+    {
+      "record_id": "344e189a0de1376d19",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens to close 1,200 US stores. Where in Georgia?",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a5cb34cf5ce4fda8f0ed3ac0d171af9&url=https%3a%2f%2fwww.detroitnews.com%2fstory%2fnews%2flocal%2f2025%2f05%2f23%2fwalgreens-to-close-1200-us-stores-where-in-georgia-savannah-athens-augusta%2f83796063007%2f&c=12938192235493096402&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2025-05-23T03:03:00+00:00",
+      "discovered_utc": "2026-07-19T11:21:48+00:00",
+      "confidence": 0.9,
+      "evidence_snippet": "Walgreens to close 1,200 US stores.",
+      "query": "Walgreens pharmacy closed location"
     }
   ]
 }
