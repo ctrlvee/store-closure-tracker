@@ -1,19 +1,19 @@
 {
-  "generated_utc": "2026-07-22T12:03:39Z",
+  "generated_utc": "2026-07-23T12:02:00Z",
   "totals": {
-    "records": 550,
+    "records": 566,
     "with_coordinates": 0,
-    "without_coordinates": 550
+    "without_coordinates": 566
   },
   "breakdowns": {
     "by_chain": [
       {
         "chain": "CVS",
-        "count": 144
+        "count": 146
       },
       {
         "chain": "Walgreens",
-        "count": 406
+        "count": 420
       }
     ],
     "by_month": [
@@ -27,7 +27,7 @@
       },
       {
         "month": "2024-10",
-        "count": 16
+        "count": 18
       },
       {
         "month": "2024-12",
@@ -35,7 +35,7 @@
       },
       {
         "month": "2025-05",
-        "count": 39
+        "count": 40
       },
       {
         "month": "2025-07",
@@ -47,7 +47,7 @@
       },
       {
         "month": "2025-12",
-        "count": 4
+        "count": 5
       },
       {
         "month": "2026-03",
@@ -55,15 +55,15 @@
       },
       {
         "month": "2026-04",
-        "count": 69
+        "count": 70
       },
       {
         "month": "2026-05",
-        "count": 150
+        "count": 156
       },
       {
         "month": "2026-06",
-        "count": 188
+        "count": 193
       },
       {
         "month": "2026-07",
@@ -73,7 +73,7 @@
     "by_state": [
       {
         "state": "IL",
-        "count": 80
+        "count": 83
       },
       {
         "state": "MI",
@@ -99,7 +99,7 @@
     "by_source_domain": [
       {
         "source_domain": "www.bing.com",
-        "count": 478
+        "count": 494
       },
       {
         "source_domain": "www.foxnews.com",
@@ -10250,6 +10250,294 @@
       "discovered_utc": "2026-07-22T12:03:13+00:00",
       "confidence": 0.84,
       "evidence_snippet": "Chicago alderman demands charges against Walgreens over South Side store closure A Chicago alderman is demanding that Walgreens face charges of \u201cfirst-degree corporate abandonment\u201d after the pharmacy chain announced it will close its Chatham location on June 4",
+      "query": "Walgreens closing stores"
+    },
+    {
+      "record_id": "fd71f0e7c6183d6029",
+      "chain": "CVS",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Why your drug store is closing",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a620274d4bd4046bbbc801006dbf5db&url=https%3a%2f%2fsports.yahoo.com%2farticles%2fwhy-drug-store-closing-090038973.html&c=10053318772980558761&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2024-10-16T02:00:00+00:00",
+      "discovered_utc": "2026-07-23T12:01:55+00:00",
+      "confidence": 0.61,
+      "evidence_snippet": "Walgreens announced Tuesday it plans to close 1,200 stores, meaning 1 in 7 will disappear.",
+      "query": "CVS closing stores"
+    },
+    {
+      "record_id": "83a47f7bf55324a761",
+      "chain": "CVS",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "CVS fights law that could force over 100 stores to close",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a620274d4bd4046bbbc801006dbf5db&url=https%3a%2f%2fwww.msn.com%2fen-us%2fpolitics%2fgovernment%2fcvs-fights-law-that-could-force-over-100-stores-to-close%2far-AA21zQvb&c=2559811357359683172&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-04-23T09:14:00+00:00",
+      "discovered_utc": "2026-07-23T12:01:55+00:00",
+      "confidence": 0.37,
+      "evidence_snippet": "CVS fights law that could force over 100 stores to close A sweeping new health care law is setting up a high-stakes battle over prescription drug pricing, corporate power, and patient access.",
+      "query": "CVS closing stores"
+    },
+    {
+      "record_id": "fb747bea258c926e57",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens to close Chatham store after more than $1M loss, cites theft and declining sales",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a620296e5b84b62bd2d0f1e4554b81c&url=https%3a%2f%2fwww.aol.com%2fnews%2fwalgreens-close-chatham-store-more-023340460.html&c=6188010764375494095&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-05-09T19:33:00+00:00",
+      "discovered_utc": "2026-07-23T12:01:55+00:00",
+      "confidence": 0.37,
+      "evidence_snippet": "Walgreens to close Chatham store after more than $1M loss, cites theft and declining sales CHICAGO - For the first time, Walgreens is revealing some of the specific financial problems that prompted it to close a longtime location on Chicago's South Side.",
+      "query": "Walgreens store closure location"
+    },
+    {
+      "record_id": "643288173163e8edc4",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens to close Chatham store amid theft and safety concerns",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a620296e5b84b62bd2d0f1e4554b81c&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fwalgreens-to-close-chatham-store-amid-theft-and-safety-concerns%2fgm-GM73C02D4E&c=9380206727898205436&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-05-09T20:17:00+00:00",
+      "discovered_utc": "2026-07-23T12:01:55+00:00",
+      "confidence": 0.61,
+      "evidence_snippet": "Walgreens to close Chatham store amid theft and safety concerns Closure date set: The Chatham Walgreens will shut down on June 4 after reporting over $1 million in losses last year.",
+      "query": "Walgreens store closure location"
+    },
+    {
+      "record_id": "1edf1aed62fed999ab",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Community leaders speak out ahead of Chatham Walgreens store closure next month",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a620296e5b84b62bd2d0f1e4554b81c&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fcommunity-leaders-to-speak-out-ahead-of-chatham-walgreens-store-closure-next-month%2far-AA22lArm&c=375227067223680103&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-05-04T15:31:00+00:00",
+      "discovered_utc": "2026-07-23T12:01:55+00:00",
+      "confidence": 0.61,
+      "evidence_snippet": "Community leaders speak out ahead of Chatham Walgreens store closure next month Six Walgreens have closed on the city's South Side during the past year.",
+      "query": "Walgreens store closure location"
+    },
+    {
+      "record_id": "333c859ffb567ca899",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens closing Chatham store as officials warn of pharmacy deserts",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a620296e5b84b62bd2d0f1e4554b81c&url=https%3a%2f%2fwww.cbsnews.com%2fchicago%2fnews%2fwalgreens-closing-chatham-thursday%2f&c=3904880234451535368&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-06-04T15:28:00+00:00",
+      "discovered_utc": "2026-07-23T12:01:55+00:00",
+      "confidence": 0.49,
+      "evidence_snippet": "has experienced \"significantly higher levels of theft and violent incidents than our other locations.\" The spokesperson said the drug store giant has made adjustments to the operations at the store and taken other steps to mitigate the issue, but \"ongoing safe",
+      "query": "Walgreens store closure location"
+    },
+    {
+      "record_id": "f81302c4b8f405a3f8",
+      "chain": "Walgreens",
+      "location_text": "Chicago, IL",
+      "city": "Chicago",
+      "state": "IL",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Local pharmacy chain steps in as Midtown Walgreens prepares to close",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a620296e5b84b62bd2d0f1e4554b81c&url=https%3a%2f%2fwww.yahoo.com%2fnews%2fus%2farticles%2flocal-pharmacy-chain-steps-midtown-174138374.html&c=8821507385196219419&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-06-09T10:41:00+00:00",
+      "discovered_utc": "2026-07-23T12:01:55+00:00",
+      "confidence": 0.91,
+      "evidence_snippet": "Local pharmacy chain steps in as Midtown Walgreens prepares to close Add Yahoo as a preferred source to see more of our stories on Google.",
+      "query": "Walgreens store closure location"
+    },
+    {
+      "record_id": "2a423f30aff847e52b",
+      "chain": "Walgreens",
+      "location_text": "Chicago, IL",
+      "city": "Chicago",
+      "state": "IL",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Local pharmacy chain steps in as Midtown Walgreens prepares to close",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a620296e5b84b62bd2d0f1e4554b81c&url=https%3a%2f%2fwww.jsonline.com%2fstory%2fnews%2flocal%2fmilwaukee%2fneighborhoods%2f2026%2f06%2f09%2fhayat-pharmacy-hosts-prescription-transfer-event-ahead-of-midtown-walgreens-closure%2f90389536007%2f&c=2976355734085642364&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-06-09T11:41:00+00:00",
+      "discovered_utc": "2026-07-23T12:01:55+00:00",
+      "confidence": 0.79,
+      "evidence_snippet": "Local pharmacy chain steps in as Midtown Walgreens prepares to close As customers of the Walgreens in Midtown prepare for the store\u2019s planned closure on June 23, Hayat Pharmacy, one of the few remaining pharmacies in the area, is hosting prescription transfer ",
+      "query": "Walgreens store closure location"
+    },
+    {
+      "record_id": "aeface3cfe51f2ecad",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens to close Chicago store after losing over $1M due to rampant theft, falling sales",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6202a5422a4773ac895b5ff894b288&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2fcompanies%2fwalgreens-to-close-chicago-store-after-losing-over-1m-due-to-rampant-theft-falling-sales%2far-AA22WnEv&c=17942911988166189995&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-05-11T11:07:00+00:00",
+      "discovered_utc": "2026-07-23T12:01:55+00:00",
+      "confidence": 0.37,
+      "evidence_snippet": "Walgreens to close Chicago store after losing over $1M due to rampant theft, falling sales Walgreens announced plans to close a location on Chicago's South Side next month as the store's profitability suffered due to elevated levels of theft as well as a decli",
+      "query": "Walgreens closing stores"
+    },
+    {
+      "record_id": "0cd2c3393f6951b189",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens closing Chatham store as officials warn of pharmacy deserts",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6202a5422a4773ac895b5ff894b288&url=https%3a%2f%2fwww.cbsnews.com%2fchicago%2fnews%2fwalgreens-closing-chatham-thursday%2f&c=3904880234451535368&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-06-04T15:28:00+00:00",
+      "discovered_utc": "2026-07-23T12:01:55+00:00",
+      "confidence": 0.49,
+      "evidence_snippet": "has experienced \"significantly higher levels of theft and violent incidents than our other locations.\" The spokesperson said the drug store giant has made adjustments to the operations at the store and taken other steps to mitigate the issue, but \"ongoing safe",
+      "query": "Walgreens closing stores"
+    },
+    {
+      "record_id": "7acf659dfe1d870898",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens to close Chatham store after more than $1M loss, cites theft and declining sales",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6202a5422a4773ac895b5ff894b288&url=https%3a%2f%2fwww.aol.com%2fnews%2fwalgreens-close-chatham-store-more-023340460.html&c=6188010764375494095&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-05-09T19:33:00+00:00",
+      "discovered_utc": "2026-07-23T12:01:55+00:00",
+      "confidence": 0.37,
+      "evidence_snippet": "Walgreens to close Chatham store after more than $1M loss, cites theft and declining sales CHICAGO - For the first time, Walgreens is revealing some of the specific financial problems that prompted it to close a longtime location on Chicago's South Side.",
+      "query": "Walgreens closing stores"
+    },
+    {
+      "record_id": "9b19260fc40e799a30",
+      "chain": "Walgreens",
+      "location_text": "Chicago, IL",
+      "city": "Chicago",
+      "state": "IL",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens closes Midtown location, the eighth shuttered in three years",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6202a5422a4773ac895b5ff894b288&url=https%3a%2f%2fwww.yahoo.com%2fnews%2fus%2farticles%2fwalgreens-closes-midtown-location-eighth-185356270.html&c=4970829250727021006&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-06-23T11:53:00+00:00",
+      "discovered_utc": "2026-07-23T12:01:55+00:00",
+      "confidence": 1.0,
+      "evidence_snippet": "Walgreens closes Midtown location, the eighth shuttered in three years Walgreens is closing its Midtown store due to safety concerns, leaving residents to find new pharmacy options.",
+      "query": "Walgreens closing stores"
+    },
+    {
+      "record_id": "41a65d7d044548b747",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Chicago alderman demands charges against Walgreens over South Side store closure",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6202a5422a4773ac895b5ff894b288&url=https%3a%2f%2fwww.washingtontimes.com%2fnews%2f2026%2fmay%2f6%2fchicago-alderman-demands-charges-walgreens-south-side-store-closure%2f&c=3306734322489615837&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-05-06T13:46:00+00:00",
+      "discovered_utc": "2026-07-23T12:01:55+00:00",
+      "confidence": 0.84,
+      "evidence_snippet": "Chicago alderman demands charges against Walgreens over South Side store closure A Chicago alderman is demanding that Walgreens face charges of \u201cfirst-degree corporate abandonment\u201d after the pharmacy chain announced it will close its Chatham location on June 4",
+      "query": "Walgreens closing stores"
+    },
+    {
+      "record_id": "768e09c2603d22fb2a",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens is closing 1,200 stores by 2027. Which Wisconsin stores could be affected?",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6202a5422a4773ac895b5ff894b288&url=https%3a%2f%2fwww.detroitnews.com%2fstory%2fmoney%2fbusiness%2fretail%2f2024%2f10%2f15%2fwalgreens-is-closing-1200-stores-by-2027-which-wisconsin-stores-could-close%2f75683725007%2f&c=7520587805005820965&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2024-10-15T04:08:00+00:00",
+      "discovered_utc": "2026-07-23T12:01:55+00:00",
+      "confidence": 0.61,
+      "evidence_snippet": "The drugstore chain Walgreens plans to close ...",
+      "query": "Walgreens closing stores"
+    },
+    {
+      "record_id": "633c6fcbfdb63b8b8f",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens to close 1,200 US stores. Where in Georgia?",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6202a5422a4773ac895b5ff894b288&url=https%3a%2f%2fwww.detroitnews.com%2fstory%2fnews%2flocal%2f2025%2f05%2f23%2fwalgreens-to-close-1200-us-stores-where-in-georgia-savannah-athens-augusta%2f83796063007%2f&c=12938192235493096402&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2025-05-23T03:03:00+00:00",
+      "discovered_utc": "2026-07-23T12:01:55+00:00",
+      "confidence": 0.9,
+      "evidence_snippet": "Walgreens to close 1,200 US stores.",
+      "query": "Walgreens closing stores"
+    },
+    {
+      "record_id": "3f11e00a9a6a2052fc",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "More than 4,100 stores and restaurants are closing across the US this year. Here's the list.",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6202a5422a4773ac895b5ff894b288&url=https%3a%2f%2fwww.businessinsider.com%2fstores-closing-in-2025-list&c=13973718250869851834&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2025-12-24T02:45:00+00:00",
+      "discovered_utc": "2026-07-23T12:01:55+00:00",
+      "confidence": 0.9,
+      "evidence_snippet": "Other retailers are also shuttering locations.",
       "query": "Walgreens closing stores"
     }
   ]
