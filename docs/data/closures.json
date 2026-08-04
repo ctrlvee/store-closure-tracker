@@ -1,9 +1,9 @@
 {
-  "generated_utc": "2026-08-03T13:21:45Z",
+  "generated_utc": "2026-08-04T12:17:39Z",
   "totals": {
-    "records": 715,
+    "records": 723,
     "with_coordinates": 0,
-    "without_coordinates": 715
+    "without_coordinates": 723
   },
   "breakdowns": {
     "by_chain": [
@@ -13,13 +13,13 @@
       },
       {
         "chain": "Walgreens",
-        "count": 557
+        "count": 565
       }
     ],
     "by_month": [
       {
         "month": "2015-04",
-        "count": 6
+        "count": 7
       },
       {
         "month": "2017-10",
@@ -75,11 +75,11 @@
       },
       {
         "month": "2026-07",
-        "count": 27
+        "count": 28
       },
       {
         "month": "2026-08",
-        "count": 3
+        "count": 9
       }
     ],
     "by_state": [
@@ -111,7 +111,7 @@
     "by_source_domain": [
       {
         "source_domain": "www.bing.com",
-        "count": 639
+        "count": 647
       },
       {
         "source_domain": "www.foxnews.com",
@@ -13245,6 +13245,150 @@
       "confidence": 0.37,
       "evidence_snippet": "2 Bergen County Walgreens stores to permanently close Two Walgreens pharmacies in Bergen County are preparing to close their doors permanently in the coming weeks.",
       "query": "Walgreens pharmacy closed location"
+    },
+    {
+      "record_id": "33e39254b7f46e4f7b",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens Is Closing Stores: Updated List of Shuttered Locations for 2026",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a71d843b7734f109bb72d097db2b9af&url=https%3a%2f%2fwww.inc.com%2famaya-nichole%2fwalgreens-closing-stores-list-of-shuttered-locations-2026%2f91383263&c=11585066375902808597&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-08-03T05:00:00+00:00",
+      "discovered_utc": "2026-08-04T12:17:20+00:00",
+      "confidence": 0.6,
+      "evidence_snippet": "Walgreens Is Closing Stores: Updated List of Shuttered Locations for 2026 The cuts are part of a multiyear downsizing effort that has already reshaped the pharmacy chain's footprint nationwide.",
+      "query": "Walgreens closing stores"
+    },
+    {
+      "record_id": "854516783d3a7f0e85",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens closing stores: Which NJ locations are affected?",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a71d843b7734f109bb72d097db2b9af&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2fgeneral%2fwalgreens-closing-stores-which-nj-locations-are-affected%2far-AA29n1pD&c=7744497689652980451&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-08-04T04:50:05+00:00",
+      "discovered_utc": "2026-08-04T12:17:20+00:00",
+      "confidence": 0.25,
+      "evidence_snippet": "Walgreens closing stores: Which NJ locations are affected? Walgreens is closing stores nationwide. Here's which New Jersey locations are closing and what customers should know.",
+      "query": "Walgreens closing stores"
+    },
+    {
+      "record_id": "dc2dd3f3e082efc4a7",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens to close more stores in 2026 - Check list of pharmacy giant's locations shutting down across the US",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a71d843b7734f109bb72d097db2b9af&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fworld%2fwalgreens-to-close-more-stores-in-2026-check-list-of-pharmacy-giants-locations-shutting-down-across-the-us%2far-AA29mq6w&c=4334357505029277442&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-08-04T02:03:03+00:00",
+      "discovered_utc": "2026-08-04T12:17:20+00:00",
+      "confidence": 0.72,
+      "evidence_snippet": "Walgreens to close more stores in 2026 - Check list of pharmacy giant's locations shutting down across the US Walgreens is closing stores across many states as part of its 2026 operational streamlining plan.",
+      "query": "Walgreens closing stores"
+    },
+    {
+      "record_id": "1361177834dc3bdafe",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens Is Closing Stores: Updated List of Shuttered Locations for 2026 as Pharmacy Giant Scales Back Downsizing",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a71d843b7734f109bb72d097db2b9af&url=https%3a%2f%2fthesiliconreview.com%2f2026%2f08%2fwalgreens-closing-stores-2026-list-shuttered-locations&c=8951348738481696331&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-08-03T17:00:00+00:00",
+      "discovered_utc": "2026-08-04T12:17:20+00:00",
+      "confidence": 0.9,
+      "evidence_snippet": "Walgreens Is Closing Stores: Updated List of Shuttered Locations for 2026 as Pharmacy Giant Scales Back Downsizing Walgreens is closing fewer than 100 stores in 2026 as part of a multiyear downsizing effort after scaling back earlier plans.",
+      "query": "Walgreens closing stores"
+    },
+    {
+      "record_id": "4e366c4b8576dae6a9",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens closing 200 stores in U.S.",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a71d843b7734f109bb72d097db2b9af&url=https%3a%2f%2fwww.digitaljournal.com%2farticle%2fwalgreens-closing-200-stores-in-america%2f&c=17353310561091693125&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2015-04-09T20:41:00+00:00",
+      "discovered_utc": "2026-08-04T12:17:20+00:00",
+      "confidence": 0.9,
+      "evidence_snippet": "In addition to the closures, Walgreens Boots alliance Inc.",
+      "query": "Walgreens closing stores"
+    },
+    {
+      "record_id": "7857dbdc6d097281d8",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens closing 2 more NJ stores",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a71d843b7734f109bb72d097db2b9af&url=https%3a%2f%2fnjbiz.com%2fwalgreens-closing-2-more-nj-stores%2f&c=17393995025677590765&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-08-03T10:49:00+00:00",
+      "discovered_utc": "2026-08-04T12:17:20+00:00",
+      "confidence": 0.84,
+      "evidence_snippet": "Walgreens closing 2 more NJ stores Two more Walgreens stores in New Jersey will permanently close as part of the retail pharmacy chain\u2019s ongoing efforts to reset its business.",
+      "query": "Walgreens closing stores"
+    },
+    {
+      "record_id": "80cdc479d698cfb3d0",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "2 Bergen County Walgreens Stores To Permanently Close",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a71d843b7734f109bb72d097db2b9af&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2fgeneral%2f2-bergen-county-walgreens-to-permanently-close%2far-AA299W8w&c=9259370588918915839&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-07-31T18:50:00+00:00",
+      "discovered_utc": "2026-08-04T12:17:20+00:00",
+      "confidence": 0.37,
+      "evidence_snippet": "2 Bergen County Walgreens Stores To Permanently Close Two Walgreens pharmacies in Bergen County are preparing to close their doors permanently in the coming weeks.",
+      "query": "Walgreens closing stores"
+    },
+    {
+      "record_id": "d58c060051cc454712",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens Closing Stores in 2026: Full List of Locations",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a71d843b7734f109bb72d097db2b9af&url=https%3a%2f%2fwww.merca20.com%2fwalgreens-closing-stores-in-2026-full-list-of-locations%2f&c=9077345941633981296&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-08-03T13:29:00+00:00",
+      "discovered_utc": "2026-08-04T12:17:20+00:00",
+      "confidence": 0.84,
+      "evidence_snippet": "The pharmacy chain is sticking to its strategy of selective closures , focused on consolidating operations at its most profitable stores while phasing out locations that no longer meet the company\u2019s performance standards.",
+      "query": "Walgreens closing stores"
     }
   ]
 }
