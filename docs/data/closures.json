@@ -1,9 +1,9 @@
 {
-  "generated_utc": "2026-08-20T10:46:56Z",
+  "generated_utc": "2026-08-21T10:46:08Z",
   "totals": {
-    "records": 1116,
+    "records": 1125,
     "with_coordinates": 0,
-    "without_coordinates": 1116
+    "without_coordinates": 1125
   },
   "breakdowns": {
     "by_chain": [
@@ -13,7 +13,7 @@
       },
       {
         "chain": "Walgreens",
-        "count": 951
+        "count": 960
       }
     ],
     "by_month": [
@@ -79,7 +79,7 @@
       },
       {
         "month": "2026-08",
-        "count": 389
+        "count": 398
       }
     ],
     "by_state": [
@@ -131,7 +131,7 @@
     "by_source_domain": [
       {
         "source_domain": "www.bing.com",
-        "count": 1017
+        "count": 1026
       },
       {
         "source_domain": "www.fool.com",
@@ -20558,6 +20558,168 @@
       "discovered_utc": "2026-08-20T10:45:53+00:00",
       "confidence": 0.6,
       "evidence_snippet": "Walgreens Is Closing Stores: Updated List of Shuttered Locations for 2026 The cuts are part of a multiyear downsizing effort that has already reshaped the pharmacy chain\u2019s footprint nationwide.",
+      "query": "Walgreens pharmacy closed location"
+    },
+    {
+      "record_id": "7bc14c4ce6580ab7af",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Why are more Walgreens locations closing? Full list of locations to close",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a882c45e3de4d3b8f286c4a52dce552&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2fcompanies%2fwhy-are-more-walgreens-locations-closing-full-list-of-locations-to-close%2far-AA29oHF1&c=9710096064838310450&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-08-04T09:22:47+00:00",
+      "discovered_utc": "2026-08-21T10:45:25+00:00",
+      "confidence": 0.37,
+      "evidence_snippet": "Full list of locations to close The pharmacy giant has been working to streamline operations and focus on more profitable locations.",
+      "query": "Walgreens pharmacy closed location"
+    },
+    {
+      "record_id": "a2223c10c079dd994c",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens pharmacy closures: Updated list of locations closing in 2026",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a882c45e3de4d3b8f286c4a52dce552&url=https%3a%2f%2fen.as.com%2flatest_news%2fwalgreens-pharmacy-closures-updated-list-of-locations-closing-in-2026-f202608-n%2f&c=14706572603353450840&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-08-04T06:23:00+00:00",
+      "discovered_utc": "2026-08-21T10:45:25+00:00",
+      "confidence": 0.9,
+      "evidence_snippet": "Walgreens pharmacy closures: Updated list of locations closing in 2026 Walgreens has downsized its ambitious restructuring plan dropping the number of expected store closures to less than 100 in 2026.",
+      "query": "Walgreens pharmacy closed location"
+    },
+    {
+      "record_id": "dfe8da6538b864a7dc",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens to close more stores in 2026 - Check list of pharmacy giant's locations shutting down across the US",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a882c45e3de4d3b8f286c4a52dce552&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fworld%2fwalgreens-to-close-more-stores-in-2026-check-list-of-pharmacy-giants-locations-shutting-down-across-the-us%2far-AA29mq6w&c=4334357505029277442&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-08-04T02:03:03+00:00",
+      "discovered_utc": "2026-08-21T10:45:25+00:00",
+      "confidence": 0.72,
+      "evidence_snippet": "Walgreens to close more stores in 2026 - Check list of pharmacy giant's locations shutting down across the US Walgreens is closing stores across many states as part of its 2026 operational streamlining plan.",
+      "query": "Walgreens pharmacy closed location"
+    },
+    {
+      "record_id": "657a90fa756189223c",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens Is Closing Stores: Updated List of Shuttered Locations for 2026",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a882c45e3de4d3b8f286c4a52dce552&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2fgeneral%2fwalgreens-is-closing-stores-updated-list-of-shuttered-locations-for-2026%2far-AA29oi9V&c=13391483862513429637&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-08-03T05:00:00+00:00",
+      "discovered_utc": "2026-08-21T10:45:25+00:00",
+      "confidence": 0.6,
+      "evidence_snippet": "Walgreens Is Closing Stores: Updated List of Shuttered Locations for 2026 The cuts are part of a multiyear downsizing effort that has already reshaped the pharmacy chain\u2019s footprint nationwide.",
+      "query": "Walgreens pharmacy closed location"
+    },
+    {
+      "record_id": "0ea8b186b027b4b8e8",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens continues store closures nationwide as part of its turnaround plan",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a882c45e3de4d3b8f286c4a52dce552&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2fcompanies%2fwalgreens-continues-store-closures-nationwide-as-part-of-its-turnaround-plan%2far-AA29tRgS&c=717242906321472140&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-08-05T16:29:47+00:00",
+      "discovered_utc": "2026-08-21T10:45:25+00:00",
+      "confidence": 0.37,
+      "evidence_snippet": "Walgreens continues store closures nationwide as part of its turnaround plan Walgreens is reportedly closing locations across the U.S.",
+      "query": "Walgreens pharmacy closed location"
+    },
+    {
+      "record_id": "bbe0914b9ea7aff1a0",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens closes more stores across the U.S. in 2026",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a882c45e3de4d3b8f286c4a52dce552&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2feconomy%2fwalgreens-closes-more-stores-across-the-us-in-2026%2far-AA29Qr69&c=7037009681074754980&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-08-11T04:17:00+00:00",
+      "discovered_utc": "2026-08-21T10:45:25+00:00",
+      "confidence": 0.72,
+      "evidence_snippet": "Walgreens closes more stores across the U.S.",
+      "query": "Walgreens pharmacy closed location"
+    },
+    {
+      "record_id": "cb806441d4d43bab77",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "When Bergen Walgreens will close; what happens if it's your pharmacy",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a882c45e3de4d3b8f286c4a52dce552&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2fcompanies%2fwhen-bergen-walgreens-will-close-what-happens-if-its-your-pharmacy%2far-AA29sX2H&c=7971362460469016249&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-08-05T08:55:51+00:00",
+      "discovered_utc": "2026-08-21T10:45:25+00:00",
+      "confidence": 0.37,
+      "evidence_snippet": "When Bergen Walgreens will close; what happens if it's your pharmacy Two Walgreens locations in North Jersey will soon close.",
+      "query": "Walgreens pharmacy closed location"
+    },
+    {
+      "record_id": "f810739681cc5988ac",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Beaufort's Ribaut Road Walgreens is closed permanently. Here's what we know",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a882c45e3de4d3b8f286c4a52dce552&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2fcompanies%2fbeauforts-ribaut-road-walgreens-is-closed-permanently-heres-what-we-know%2far-AA29BjZG&c=16012206926904040256&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-08-07T02:01:00+00:00",
+      "discovered_utc": "2026-08-21T10:45:25+00:00",
+      "confidence": 0.49,
+      "evidence_snippet": "Beaufort's Ribaut Road Walgreens is closed permanently.",
+      "query": "Walgreens pharmacy closed location"
+    },
+    {
+      "record_id": "3ad37b2c83f630027c",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens 2026 Store Locations Closing: List of Shuttered Stores",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a882c45e3de4d3b8f286c4a52dce552&url=https%3a%2f%2fhollywoodlife.com%2ffeature%2fwalgreens-2026-store-locations-closing-5553876%2f&c=17081128578431119152&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-08-04T05:41:00+00:00",
+      "discovered_utc": "2026-08-21T10:45:25+00:00",
+      "confidence": 0.6,
+      "evidence_snippet": "Walgreens 2026 Store Locations Closing: List of Shuttered Stores Walgreens is closing stores again in 2026, and if you have been wondering whether your local pharmacy made the list, you are not alone.",
       "query": "Walgreens pharmacy closed location"
     }
   ]
