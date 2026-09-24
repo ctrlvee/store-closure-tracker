@@ -1,15 +1,15 @@
 {
-  "generated_utc": "2026-09-23T15:02:08Z",
+  "generated_utc": "2026-09-24T15:03:15Z",
   "totals": {
-    "records": 2273,
+    "records": 2279,
     "with_coordinates": 0,
-    "without_coordinates": 2273
+    "without_coordinates": 2279
   },
   "breakdowns": {
     "by_chain": [
       {
         "chain": "CVS",
-        "count": 274
+        "count": 280
       },
       {
         "chain": "Walgreens",
@@ -27,7 +27,7 @@
       },
       {
         "month": "2021-11",
-        "count": 5
+        "count": 6
       },
       {
         "month": "2024-06",
@@ -39,7 +39,7 @@
       },
       {
         "month": "2024-12",
-        "count": 17
+        "count": 18
       },
       {
         "month": "2025-02",
@@ -87,7 +87,7 @@
       },
       {
         "month": "2026-09",
-        "count": 313
+        "count": 317
       }
     ],
     "by_state": [
@@ -147,7 +147,7 @@
     "by_source_domain": [
       {
         "source_domain": "www.bing.com",
-        "count": 2129
+        "count": 2135
       },
       {
         "source_domain": "981thehawk.com",
@@ -41557,6 +41557,114 @@
       "confidence": 0.37,
       "evidence_snippet": "When Bergen Walgreens will close; what happens if it's your pharmacy The Walgreens pharmacy in Bogota will permanently close on Aug.",
       "query": "Walgreens pharmacy closed location"
+    },
+    {
+      "record_id": "b1aac77a25589edfd1",
+      "chain": "CVS",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "CVS is closing stores across the country this year. Here\u2019s how to know if your location is impacted",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab53b406b9447f8b6403d4c2b71fe6a&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2fgeneral%2fcvs-is-closing-stores-across-the-country-this-year-here-s-how-to-know-if-your-location-is-impacted%2far-AA2bw8nT&c=9344010363095763799&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-09-02T10:53:01+00:00",
+      "discovered_utc": "2026-09-24T15:02:49+00:00",
+      "confidence": 0.25,
+      "evidence_snippet": "CVS is closing stores across the country this year. Here\u2019s how to know if your location is impacted The pharmacy chain is closing weaker locations across the U.S. this year. It says it plans to invest in smaller formats and stronger markets.",
+      "query": "CVS store closure location"
+    },
+    {
+      "record_id": "6afb4647adc4d4bfaa",
+      "chain": "CVS",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Will Walgreens store closures benefit CVS in key markets?",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab53b406b9447f8b6403d4c2b71fe6a&url=https%3a%2f%2fwww.thestreet.com%2finvesting%2fstocks%2fwalgreens-retreats-cvs-quietly-takes-over-suburban-pharmacies&c=4511632668544369291&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-09-16T06:37:00+00:00",
+      "discovered_utc": "2026-09-24T15:02:49+00:00",
+      "confidence": 0.84,
+      "evidence_snippet": "Will Walgreens store closures benefit CVS in key markets?",
+      "query": "CVS store closure location"
+    },
+    {
+      "record_id": "dd8447d9ec5d85a430",
+      "chain": "CVS",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "CVS to close 900 locations over next three years",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab53b406b9447f8b6403d4c2b71fe6a&url=https%3a%2f%2fwww.wcpo.com%2fnews%2fnational%2fcvs-to-close-900-locations-over-next-three-years&c=7984052694543085107&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2021-11-18T12:32:00+00:00",
+      "discovered_utc": "2026-09-24T15:02:49+00:00",
+      "confidence": 0.37,
+      "evidence_snippet": "CVS to close 900 locations over next three years CVS says it's planning to close about 900 stores over the next several years.",
+      "query": "CVS store closure location"
+    },
+    {
+      "record_id": "558c6c2ace8874df1d",
+      "chain": "CVS",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "CVS is closing stores across the country this year. Here\u2019s how to know if your location is impacted",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab53b51fb784addbc9eb7dc161e708d&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2fgeneral%2fcvs-is-closing-stores-across-the-country-this-year-here-s-how-to-know-if-your-location-is-impacted%2far-AA2bw8nT&c=9344010363095763799&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-09-02T10:53:01+00:00",
+      "discovered_utc": "2026-09-24T15:02:49+00:00",
+      "confidence": 0.25,
+      "evidence_snippet": "CVS is closing stores across the country this year. Here\u2019s how to know if your location is impacted The pharmacy chain is closing weaker locations across the U.S. this year. It says it plans to invest in smaller formats and stronger markets.",
+      "query": "CVS closing stores"
+    },
+    {
+      "record_id": "003140ba273e75ec4d",
+      "chain": "CVS",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Will Walgreens store closures benefit CVS in key markets?",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab53b51fb784addbc9eb7dc161e708d&url=https%3a%2f%2fwww.thestreet.com%2finvesting%2fstocks%2fwalgreens-retreats-cvs-quietly-takes-over-suburban-pharmacies&c=4511632668544369291&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-09-16T06:37:00+00:00",
+      "discovered_utc": "2026-09-24T15:02:49+00:00",
+      "confidence": 0.84,
+      "evidence_snippet": "Will Walgreens store closures benefit CVS in key markets?",
+      "query": "CVS closing stores"
+    },
+    {
+      "record_id": "3a770f0e6457860d70",
+      "chain": "CVS",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "US store closings up 69% in 2024 amid Big Lots, CVS, Family Dollar cuts",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab53b51fb784addbc9eb7dc161e708d&url=https%3a%2f%2fwww.10news.com%2fbusiness%2fcompany-news%2fus-store-closings-up-69-in-2024-amid-big-lots-cvs-family-dollar-cuts&c=2805055259065999769&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2024-12-19T10:19:00+00:00",
+      "discovered_utc": "2026-09-24T15:02:49+00:00",
+      "confidence": 0.9,
+      "evidence_snippet": "RELATED STORY | Big Lots files for bankruptcy, says more stores could close Family Dollar has closed the largest number of stores, with 718 confirmed closings.",
+      "query": "CVS closing stores"
     }
   ]
 }
