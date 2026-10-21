@@ -1,15 +1,15 @@
 {
-  "generated_utc": "2026-10-20T15:02:54Z",
+  "generated_utc": "2026-10-21T15:12:23Z",
   "totals": {
-    "records": 3320,
+    "records": 3324,
     "with_coordinates": 0,
-    "without_coordinates": 3320
+    "without_coordinates": 3324
   },
   "breakdowns": {
     "by_chain": [
       {
         "chain": "CVS",
-        "count": 411
+        "count": 415
       },
       {
         "chain": "Walgreens",
@@ -39,7 +39,7 @@
       },
       {
         "month": "2024-12",
-        "count": 43
+        "count": 44
       },
       {
         "month": "2025-02",
@@ -75,7 +75,7 @@
       },
       {
         "month": "2026-04",
-        "count": 82
+        "count": 84
       },
       {
         "month": "2026-05",
@@ -95,7 +95,7 @@
       },
       {
         "month": "2026-09",
-        "count": 892
+        "count": 893
       },
       {
         "month": "2026-10",
@@ -163,7 +163,7 @@
     "by_source_domain": [
       {
         "source_domain": "www.bing.com",
-        "count": 3168
+        "count": 3172
       },
       {
         "source_domain": "981thehawk.com",
@@ -60435,6 +60435,78 @@
       "confidence": 1.0,
       "evidence_snippet": "Walgreens closes stores across a dozen states including NY and New Jersey See more of our coverage in your search results.",
       "query": "Walgreens pharmacy closed location"
+    },
+    {
+      "record_id": "cbfdaf583cb02ea514",
+      "chain": "CVS",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "CVS warns it may have to close over 100 more stores",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad8d61ef88c481e88eaa5cd2b3b237f&url=https%3a%2f%2fwww.thestreet.com%2fhealth%2fcvs-fights-law-that-could-force-134-stores-to-close-fair-rx&c=2158066446006967284&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-04-25T07:11:00+00:00",
+      "discovered_utc": "2026-10-21T15:12:20+00:00",
+      "confidence": 0.37,
+      "evidence_snippet": "CVS warns it may have to close over 100 more stores A controversial new law targeting drug middlemen could reshape how prescriptions are priced and put hundreds of pharmacy locations at risk.",
+      "query": "CVS store closure location"
+    },
+    {
+      "record_id": "9e2f511d45043b8f27",
+      "chain": "CVS",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "CVS is closing stores across the country this year. Here\u2019s how to know if your location is impacted",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad8d62abbde4f39b5c1bfaa082b8135&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fcvs-is-closing-stores-across-the-country-this-year-here-s-how-to-know-if-your-location-is-impacted%2far-AA2bw8nT&c=7208025675900822455&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-09-02T10:53:00+00:00",
+      "discovered_utc": "2026-10-21T15:12:20+00:00",
+      "confidence": 0.25,
+      "evidence_snippet": "CVS is closing stores across the country this year. Here\u2019s how to know if your location is impacted The pharmacy chain is closing weaker locations across the U.S. this year. It says it plans to invest in smaller formats and stronger markets. This year, CVS is ",
+      "query": "CVS closing stores"
+    },
+    {
+      "record_id": "87cbb07f10f115aec2",
+      "chain": "CVS",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "CVS warns it may have to close over 100 more stores",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad8d62abbde4f39b5c1bfaa082b8135&url=https%3a%2f%2fwww.thestreet.com%2fhealth%2fcvs-fights-law-that-could-force-134-stores-to-close-fair-rx&c=2158066446006967284&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-04-25T07:11:00+00:00",
+      "discovered_utc": "2026-10-21T15:12:20+00:00",
+      "confidence": 0.37,
+      "evidence_snippet": "CVS warns it may have to close over 100 more stores A controversial new law targeting drug middlemen could reshape how prescriptions are priced and put hundreds of pharmacy locations at risk.",
+      "query": "CVS closing stores"
+    },
+    {
+      "record_id": "aefefee92ee0451c13",
+      "chain": "CVS",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "US store closings up 69% in 2024 amid Big Lots, CVS, Family Dollar cuts",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad8d62abbde4f39b5c1bfaa082b8135&url=https%3a%2f%2fwww.10news.com%2fbusiness%2fcompany-news%2fus-store-closings-up-69-in-2024-amid-big-lots-cvs-family-dollar-cuts&c=2805055259065999769&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2024-12-19T10:19:00+00:00",
+      "discovered_utc": "2026-10-21T15:12:20+00:00",
+      "confidence": 0.9,
+      "evidence_snippet": "RELATED STORY | Big Lots files for bankruptcy, says more stores could close Family Dollar has closed the largest number of stores, with 718 confirmed closings.",
+      "query": "CVS closing stores"
     }
   ]
 }
