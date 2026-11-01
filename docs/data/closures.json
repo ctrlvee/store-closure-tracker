@@ -1,19 +1,19 @@
 {
-  "generated_utc": "2026-10-31T15:43:55Z",
+  "generated_utc": "2026-11-01T16:49:02Z",
   "totals": {
-    "records": 3806,
+    "records": 3817,
     "with_coordinates": 0,
-    "without_coordinates": 3806
+    "without_coordinates": 3817
   },
   "breakdowns": {
     "by_chain": [
       {
         "chain": "CVS",
-        "count": 466
+        "count": 468
       },
       {
         "chain": "Walgreens",
-        "count": 3340
+        "count": 3349
       }
     ],
     "by_month": [
@@ -67,11 +67,11 @@
       },
       {
         "month": "2026-02",
-        "count": 33
+        "count": 34
       },
       {
         "month": "2026-03",
-        "count": 12
+        "count": 13
       },
       {
         "month": "2026-04",
@@ -91,15 +91,15 @@
       },
       {
         "month": "2026-08",
-        "count": 1750
+        "count": 1754
       },
       {
         "month": "2026-09",
-        "count": 1147
+        "count": 1150
       },
       {
         "month": "2026-10",
-        "count": 13
+        "count": 15
       }
     ],
     "by_state": [
@@ -163,7 +163,7 @@
     "by_source_domain": [
       {
         "source_domain": "www.bing.com",
-        "count": 3651
+        "count": 3662
       },
       {
         "source_domain": "981thehawk.com",
@@ -69191,6 +69191,204 @@
       "confidence": 0.91,
       "evidence_snippet": "Walgreens Closing Dozens Of Pharmacies In 2026: Here's Where, Why Walgreens is planning to close dozens of stores in 2026 as the pharmacy chain reshapes its nationwide footprint, according to reports.",
       "query": "Walgreens pharmacy closed location"
+    },
+    {
+      "record_id": "720dba54852c7213f3",
+      "chain": "CVS",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Pharmacy desert continues as CVS sets December closure deadline with prescriptions sent to supermarket rival",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae76d3c32754b03bb957461e8cfcbf8&url=https%3a%2f%2fwww.the-sun.com%2fmoney%2f17226762%2fcvs-health-closing-rochester-indiana-kroger%2f&c=1857704221911894462&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-10-29T09:33:00+00:00",
+      "discovered_utc": "2026-11-01T16:48:55+00:00",
+      "confidence": 0.9,
+      "evidence_snippet": "Pharmacy desert continues as CVS sets December closure deadline with prescriptions sent to supermarket rival CVS\u2019 struggles are continuing as it prepares to close another pharmacy in the US.",
+      "query": "CVS store closure location"
+    },
+    {
+      "record_id": "09a82cab1b2de7fca5",
+      "chain": "CVS",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Major pharmacy chains close hundreds of stores nationwide",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae76d3c32754b03bb957461e8cfcbf8&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2fgeneral%2fmajor-pharmacy-chains-close-hundreds-of-stores-nationwide%2far-AA1Xs3xJ&c=15077638717923786957&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-03-03T08:01:54+00:00",
+      "discovered_utc": "2026-11-01T16:48:55+00:00",
+      "confidence": 0.49,
+      "evidence_snippet": "Major pharmacy chains close hundreds of stores nationwide Familiar brands face widespread store closures nationwide, reshaping access to prescriptions amid retail pressures.",
+      "query": "CVS store closure location"
+    },
+    {
+      "record_id": "2a81dd0b6391a7ebc7",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens Stores Closing: Full List of Locations Set to Shutter This Year",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae76d62fac44903a7454a9cc436c78a&url=https%3a%2f%2fwww.newsweek.com%2fwalgreens-map-stores-closing-this-year-2026-12283049&c=8380331605805187678&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-08-04T09:22:00+00:00",
+      "discovered_utc": "2026-11-01T16:48:55+00:00",
+      "confidence": 0.84,
+      "evidence_snippet": "Walgreens Stores Closing: Full List of Locations Set to Shutter This Year See more of our trusted coverage when you search.",
+      "query": "Walgreens store closure location"
+    },
+    {
+      "record_id": "c8c62774d9bdb473dd",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "The full list of Walgreens stores closing in 2026",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae76d62fac44903a7454a9cc436c78a&url=https%3a%2f%2ffinance.yahoo.com%2fhealthcare%2farticles%2ffull-list-walgreens-stores-closing-093101600.html&c=3652873845606701020&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-09-20T02:30:00+00:00",
+      "discovered_utc": "2026-11-01T16:48:55+00:00",
+      "confidence": 0.49,
+      "evidence_snippet": "The company is closing far fewer stores than originally planned following its acquisition by private equity firm Sycamore Partners, with the drugstore chain now expecting to shutter fewer than 100 locations in 2026.",
+      "query": "Walgreens store closure location"
+    },
+    {
+      "record_id": "ce1770bf4f572a0d1c",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens widens job cuts amid store closures",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae76d62fac44903a7454a9cc436c78a&url=https%3a%2f%2fwww.thestreet.com%2femployment%2fwalgreens-widens-job-cuts-amid-store-closures&c=10695576382643964753&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-02-23T08:47:00+00:00",
+      "discovered_utc": "2026-11-01T16:48:55+00:00",
+      "confidence": 0.61,
+      "evidence_snippet": "Walgreens widens job cuts amid store closures Amazon closed all of its Amazon Go and Amazon Fresh stores in late January to focus on expanding Whole Foods.",
+      "query": "Walgreens store closure location"
+    },
+    {
+      "record_id": "3c1ec9c754d52f95da",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens Store Closures 2026: List of Pharmacy Locations Shutting Down Across the US",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae76d62fac44903a7454a9cc436c78a&url=https%3a%2f%2fwww.ibtimes.co.uk%2fwalgreens-store-closures-2026-strategic-shift-1812273&c=17103580441472623021&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-08-03T23:43:00+00:00",
+      "discovered_utc": "2026-11-01T16:48:55+00:00",
+      "confidence": 0.9,
+      "evidence_snippet": "Walgreens Store Closures 2026: List of Pharmacy Locations Shutting Down Across the US Walgreens is closing fewer than 100 stores in 2026.",
+      "query": "Walgreens store closure location"
+    },
+    {
+      "record_id": "de800f0b78e7dfbe1a",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens will close fewer stores as it refocuses on its retail pharmacy roots",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae76d62fac44903a7454a9cc436c78a&url=https%3a%2f%2fwww.emarketer.com%2fcontent%2fwalgreens-will-close-fewer-stores-refocuses-on-its-retail-pharmacy-roots&c=9694999443418642231&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-09-30T21:00:00+00:00",
+      "discovered_utc": "2026-11-01T16:48:55+00:00",
+      "confidence": 0.84,
+      "evidence_snippet": "Walgreens will close fewer stores as it refocuses on its retail pharmacy roots The news: Walgreens is scaling back its store closure plans.",
+      "query": "Walgreens store closure location"
+    },
+    {
+      "record_id": "f8cce9f90a97f3b140",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens closing more stores. See the new list",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae76d62fac44903a7454a9cc436c78a&url=https%3a%2f%2fwww.indystar.com%2fstory%2fmoney%2f2026%2f08%2f04%2fwalgreens-closing-stores-full-list-locations%2f91172946007%2f&c=10938902795250215118&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-08-04T06:21:00+00:00",
+      "discovered_utc": "2026-11-01T16:48:55+00:00",
+      "confidence": 0.9,
+      "evidence_snippet": "See the new list Walgreens is continuing to close some locations amid its multiyear turnaround program \u2013 however the closures may be fewer than expected.",
+      "query": "Walgreens store closure location"
+    },
+    {
+      "record_id": "370da01b395beee81e",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens' 1,200-Store Closure Plan Continues in 2026 (Is Yours One of Them?)",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae76d62fac44903a7454a9cc436c78a&url=https%3a%2f%2fwww.aol.com%2farticles%2fwalgreens-1-200-store-closure-130000000.html&c=16351321445536498847&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-08-27T06:00:00+00:00",
+      "discovered_utc": "2026-11-01T16:48:55+00:00",
+      "confidence": 0.9,
+      "evidence_snippet": "Walgreens' 1,200-Store Closure Plan Continues in 2026 (Is Yours One of Them?) If you've been worried that the Walgreens around the corner might disappear, we come bearing good news: the pharmacy giant is slowing its roll.",
+      "query": "Walgreens store closure location"
+    },
+    {
+      "record_id": "b361f385c89d988771",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens just slashed its store closure list \u2014 here\u2019s what\u2019s actually closing near you in 2026",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae76d62fac44903a7454a9cc436c78a&url=https%3a%2f%2fwww.syracuse.com%2fus-news%2f2026%2f09%2fwalgreens-just-slashed-its-store-closure-list-heres-whats-actually-closing-near-you-in-2026.html&c=3226566763283068161&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-09-19T22:30:00+00:00",
+      "discovered_utc": "2026-11-01T16:48:55+00:00",
+      "confidence": 0.37,
+      "evidence_snippet": "Walgreens just slashed its store closure list \u2014 here\u2019s what\u2019s actually closing near you in 2026 Here\u2019s something Walgreens wasn\u2019t expecting.",
+      "query": "Walgreens store closure location"
+    },
+    {
+      "record_id": "3bf4740e76ca806550",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "2 Walgreens stores fined for negligence related to temporary closures",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae76d62fac44903a7454a9cc436c78a&url=https%3a%2f%2fwww.yahoo.com%2fnews%2fus%2farticles%2f2-walgreens-stores-fined-negligence-203953295.html&c=8502777809448664043&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-10-30T13:40:00+00:00",
+      "discovered_utc": "2026-11-01T16:48:55+00:00",
+      "confidence": 0.26,
+      "evidence_snippet": "2 Walgreens stores fined for negligence related to temporary closures Two Walgreens pharmacies in Iowa have been sanctioned by the state for negligence with regard to temporary closures and customer service.",
+      "query": "Walgreens store closure location"
     }
   ]
 }
