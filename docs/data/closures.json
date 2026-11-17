@@ -1,19 +1,19 @@
 {
-  "generated_utc": "2026-11-16T20:24:29Z",
+  "generated_utc": "2026-11-17T19:10:15Z",
   "totals": {
-    "records": 4327,
+    "records": 4357,
     "with_coordinates": 0,
-    "without_coordinates": 4327
+    "without_coordinates": 4357
   },
   "breakdowns": {
     "by_chain": [
       {
         "chain": "CVS",
-        "count": 567
+        "count": 574
       },
       {
         "chain": "Walgreens",
-        "count": 3760
+        "count": 3783
       }
     ],
     "by_month": [
@@ -27,11 +27,11 @@
       },
       {
         "month": "2021-11",
-        "count": 27
+        "count": 28
       },
       {
         "month": "2024-06",
-        "count": 36
+        "count": 37
       },
       {
         "month": "2024-10",
@@ -71,7 +71,7 @@
       },
       {
         "month": "2026-02",
-        "count": 81
+        "count": 82
       },
       {
         "month": "2026-03",
@@ -79,7 +79,7 @@
       },
       {
         "month": "2026-04",
-        "count": 147
+        "count": 150
       },
       {
         "month": "2026-05",
@@ -95,11 +95,11 @@
       },
       {
         "month": "2026-08",
-        "count": 1938
+        "count": 1950
       },
       {
         "month": "2026-09",
-        "count": 1316
+        "count": 1326
       },
       {
         "month": "2026-10",
@@ -107,21 +107,21 @@
       },
       {
         "month": "2026-11",
-        "count": 20
+        "count": 22
       }
     ],
     "by_state": [
       {
         "state": "IL",
-        "count": 283
+        "count": 284
       },
       {
         "state": "MO",
-        "count": 215
+        "count": 216
       },
       {
         "state": "SC",
-        "count": 156
+        "count": 157
       },
       {
         "state": "TX",
@@ -129,15 +129,15 @@
       },
       {
         "state": "DC",
-        "count": 110
+        "count": 111
       },
       {
         "state": "NY",
-        "count": 101
+        "count": 102
       },
       {
         "state": "VA",
-        "count": 97
+        "count": 98
       },
       {
         "state": "WA",
@@ -171,7 +171,7 @@
     "by_source_domain": [
       {
         "source_domain": "www.bing.com",
-        "count": 4170
+        "count": 4200
       },
       {
         "source_domain": "www.fool.com",
@@ -78580,6 +78580,546 @@
       "discovered_utc": "2026-11-16T20:24:17+00:00",
       "confidence": 0.37,
       "evidence_snippet": "Walgreens once planned to close 1,200 stores \u2014 now the number is under 100.",
+      "query": "Walgreens pharmacy closed location"
+    },
+    {
+      "record_id": "01c6ac4bef8cccdf55",
+      "chain": "CVS",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "CVS warns it may have to close over 100 more stores",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afca63b11784165958ae8c6f847ee3f&url=https%3a%2f%2fwww.thestreet.com%2fhealth%2fcvs-fights-law-that-could-force-134-stores-to-close-fair-rx&c=2158066446006967284&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-04-23T07:11:00+00:00",
+      "discovered_utc": "2026-11-17T19:09:50+00:00",
+      "confidence": 0.37,
+      "evidence_snippet": "CVS warns it may have to close over 100 more stores A controversial new law targeting drug middlemen could reshape how prescriptions are priced and put hundreds of pharmacy locations at risk.",
+      "query": "CVS store closure location"
+    },
+    {
+      "record_id": "ecf4c53b9bdfef9c71",
+      "chain": "CVS",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "CVS fears 134 stores will be forced to close under new law\u2019s bizarre regulations",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afca646843f4b3d9fabfb72b30b70a8&url=https%3a%2f%2fwww.the-sun.com%2fmoney%2f17261544%2fcvs-tennessee-pharmacy-closures%2f&c=1100327246487862517&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-11-05T01:37:00+00:00",
+      "discovered_utc": "2026-11-17T19:09:50+00:00",
+      "confidence": 0.61,
+      "evidence_snippet": "CVS fears 134 stores will be forced to close under new law\u2019s bizarre regulations CVS warns that 134 stores will have to shut down after new regulations go into effect.",
+      "query": "CVS closing stores"
+    },
+    {
+      "record_id": "13e01f4852bd2686f6",
+      "chain": "CVS",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "CVS warns it may have to close over 100 more stores",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afca646843f4b3d9fabfb72b30b70a8&url=https%3a%2f%2fwww.thestreet.com%2fhealth%2fcvs-fights-law-that-could-force-134-stores-to-close-fair-rx&c=2158066446006967284&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-04-23T07:11:00+00:00",
+      "discovered_utc": "2026-11-17T19:09:50+00:00",
+      "confidence": 0.37,
+      "evidence_snippet": "CVS warns it may have to close over 100 more stores A controversial new law targeting drug middlemen could reshape how prescriptions are priced and put hundreds of pharmacy locations at risk.",
+      "query": "CVS closing stores"
+    },
+    {
+      "record_id": "02e1aa571fc5f90f17",
+      "chain": "CVS",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "CVS to close 900 stores over three years",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afca646843f4b3d9fabfb72b30b70a8&url=https%3a%2f%2fwww.reuters.com%2fvideo%2fwatch%2fidOVF44RP8R&c=11851298361949760047&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2021-11-18T09:40:00+00:00",
+      "discovered_utc": "2026-11-17T19:09:50+00:00",
+      "confidence": 0.72,
+      "evidence_snippet": "CVS to close 900 stores over three years Captions auto-generated & unedited.] The USA's largest pharmacy chain, CVS, said Thursday it will close about 900 stores over the next three years, almost a tenth of i ...",
+      "query": "CVS closing stores"
+    },
+    {
+      "record_id": "fbd21367259f565817",
+      "chain": "CVS",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "CVS warns it may have to close over 100 more stores",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afca656ac4c4ae99c0bf5f5531be550&url=https%3a%2f%2fwww.thestreet.com%2fhealth%2fcvs-fights-law-that-could-force-134-stores-to-close-fair-rx&c=2158066446006967284&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-04-23T07:11:00+00:00",
+      "discovered_utc": "2026-11-17T19:09:50+00:00",
+      "confidence": 0.37,
+      "evidence_snippet": "CVS warns it may have to close over 100 more stores A controversial new law targeting drug middlemen could reshape how prescriptions are priced and put hundreds of pharmacy locations at risk.",
+      "query": "CVS pharmacy closed location"
+    },
+    {
+      "record_id": "869f3cad5c673eed5e",
+      "chain": "CVS",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Major change coming to 9,000 CVS drugstores as healthcare giant announces dramatic overhaul",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afca656ac4c4ae99c0bf5f5531be550&url=https%3a%2f%2fwww.the-sun.com%2fmoney%2f17283454%2fcvs-health-pharmacy-breakup-aetna%2f&c=11002679006362322782&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-11-09T23:45:00+00:00",
+      "discovered_utc": "2026-11-17T19:09:50+00:00",
+      "confidence": 0.49,
+      "evidence_snippet": "The health chain, which has closed hundreds of locations over the last several years and could lose even more, has said it ...",
+      "query": "CVS pharmacy closed location"
+    },
+    {
+      "record_id": "d2f9bfb49b21095cc5",
+      "chain": "CVS",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Downtown Portland CVS Pharmacy to close; KATU rides with PPB anti-shoplifting mission",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afca656ac4c4ae99c0bf5f5531be550&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fdowntown-portland-cvs-pharmacy-to-close-katu-rides-with-ppb-anti-shoplifting-mission%2far-AA1X6R4J&c=12895234270456660057&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-02-25T23:12:54+00:00",
+      "discovered_utc": "2026-11-17T19:09:50+00:00",
+      "confidence": 0.37,
+      "evidence_snippet": "Downtown Portland CVS Pharmacy to close; KATU rides with PPB anti-shoplifting mission A KATU crew went on a ride-along with Ramos during an undercover operation as he was looking for the next suspected shoplifter.",
+      "query": "CVS pharmacy closed location"
+    },
+    {
+      "record_id": "f1162186178694643e",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens will close fewer stores as it refocuses on its retail pharmacy roots",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afca6679a2e41b5b4e2163eb94f7abd&url=https%3a%2f%2fwww.emarketer.com%2fcontent%2fwalgreens-will-close-fewer-stores-refocuses-on-its-retail-pharmacy-roots&c=9694999443418642231&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-09-30T21:00:00+00:00",
+      "discovered_utc": "2026-11-17T19:09:50+00:00",
+      "confidence": 0.84,
+      "evidence_snippet": "Walgreens will close fewer stores as it refocuses on its retail pharmacy roots The news: Walgreens is scaling back its store closure plans.",
+      "query": "Walgreens store closure location"
+    },
+    {
+      "record_id": "55bd371b8203c62ca3",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens Store Closures 2026: List of Pharmacy Locations Shutting Down Across the US",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afca6679a2e41b5b4e2163eb94f7abd&url=https%3a%2f%2fwww.ibtimes.co.uk%2fwalgreens-store-closures-2026-strategic-shift-1812273&c=17103580441472623021&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-08-03T23:43:00+00:00",
+      "discovered_utc": "2026-11-17T19:09:50+00:00",
+      "confidence": 0.9,
+      "evidence_snippet": "Walgreens Store Closures 2026: List of Pharmacy Locations Shutting Down Across the US Walgreens is closing fewer than 100 stores in 2026.",
+      "query": "Walgreens store closure location"
+    },
+    {
+      "record_id": "262dd37ed753304d50",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens closing stores: Which DC, MD and VA locations are affected?",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afca6679a2e41b5b4e2163eb94f7abd&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fwalgreens-closing-stores-which-dc-md-and-va-locations-are-affected%2far-AA29o8x1&c=9962982826164756942&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-08-04T08:44:14+00:00",
+      "discovered_utc": "2026-11-17T19:09:50+00:00",
+      "confidence": 0.25,
+      "evidence_snippet": "Walgreens closing stores: Which DC, MD and VA locations are affected? Walgreens is closing stores in 2026. Here's which Washington DC, Maryland and Virginia locations are affected and what customers need to know.",
+      "query": "Walgreens store closure location"
+    },
+    {
+      "record_id": "6f709eb43fc9f9d090",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "The full list of Walgreens stores closing in 2026",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afca6679a2e41b5b4e2163eb94f7abd&url=https%3a%2f%2ffinance.yahoo.com%2fhealthcare%2farticles%2ffull-list-walgreens-stores-closing-103053075.html&c=7226659313382924104&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-09-25T03:30:00+00:00",
+      "discovered_utc": "2026-11-17T19:09:50+00:00",
+      "confidence": 0.49,
+      "evidence_snippet": "The company is closing far fewer stores than originally planned following its acquisition by private equity firm Sycamore Partners, with the drugstore chain now expecting to shutter fewer than 100 locations in 2026.",
+      "query": "Walgreens store closure location"
+    },
+    {
+      "record_id": "9598c1cb49160df3c8",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens just slashed its store closure list \u2014 here\u2019s what\u2019s actually closing near you in 2026",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afca6679a2e41b5b4e2163eb94f7abd&url=https%3a%2f%2fwww.al.com%2flife%2f2026%2f09%2fwalgreens-just-slashed-its-store-closure-list-heres-whats-actually-closing-near-you-in-2026.html&c=6443479502760810163&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-09-19T21:30:00+00:00",
+      "discovered_utc": "2026-11-17T19:09:50+00:00",
+      "confidence": 0.37,
+      "evidence_snippet": "Walgreens just slashed its store closure list \u2014 here\u2019s what\u2019s actually closing near you in 2026 Here\u2019s something Walgreens wasn\u2019t expecting.",
+      "query": "Walgreens store closure location"
+    },
+    {
+      "record_id": "94ddc542f8a79fe4e7",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens once planned to close 1,200 stores \u2014 now the number is under 100. Here\u2019s the new list",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afca6679a2e41b5b4e2163eb94f7abd&url=https%3a%2f%2fwww.nj.com%2fbusiness%2f2026%2f09%2fwalgreens-once-planned-to-close-1200-stores-now-the-number-is-under-100-heres-the-new-list.html&c=13288850858153094083&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-09-08T22:00:00+00:00",
+      "discovered_utc": "2026-11-17T19:09:50+00:00",
+      "confidence": 0.37,
+      "evidence_snippet": "Walgreens once planned to close 1,200 stores \u2014 now the number is under 100.",
+      "query": "Walgreens store closure location"
+    },
+    {
+      "record_id": "bc0f5052b76f73f726",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens and 5 Other Major Stores That Are Closing in September",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afca6679a2e41b5b4e2163eb94f7abd&url=https%3a%2f%2fwww.aol.com%2farticles%2fwalgreens-5-other-major-stores-092500000.html&c=14332708697680978428&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-09-07T02:25:00+00:00",
+      "discovered_utc": "2026-11-17T19:09:50+00:00",
+      "confidence": 0.9,
+      "evidence_snippet": "Walgreens and 5 Other Major Stores That Are Closing in September September is bringing another wave of retail closures across the United States, with several familiar chains preparing to shut individual stores or groups of locations.",
+      "query": "Walgreens store closure location"
+    },
+    {
+      "record_id": "404b8094e1fcff0dd3",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens closing stores: Which NJ locations are affected?",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afca6739fa54bfd9f47fb0138a15c9d&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fwalgreens-closing-stores-which-nj-locations-are-affected%2far-AA29n1pD&c=8428865812417747474&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-08-04T04:50:05+00:00",
+      "discovered_utc": "2026-11-17T19:09:50+00:00",
+      "confidence": 0.25,
+      "evidence_snippet": "Walgreens closing stores: Which NJ locations are affected? Walgreens is closing stores nationwide. Here's which New Jersey locations are closing and what customers should know.",
+      "query": "Walgreens closing stores"
+    },
+    {
+      "record_id": "ec8148c5735e96cd6a",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens closing stores: Which DC, MD and VA locations are affected?",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afca6739fa54bfd9f47fb0138a15c9d&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fwalgreens-closing-stores-which-dc-md-and-va-locations-are-affected%2far-AA29o8x1&c=9962982826164756942&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-08-04T08:44:14+00:00",
+      "discovered_utc": "2026-11-17T19:09:50+00:00",
+      "confidence": 0.25,
+      "evidence_snippet": "Walgreens closing stores: Which DC, MD and VA locations are affected? Walgreens is closing stores in 2026. Here's which Washington DC, Maryland and Virginia locations are affected and what customers need to know.",
+      "query": "Walgreens closing stores"
+    },
+    {
+      "record_id": "3cfb0cf00541ea09e9",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens closing numerous stores amid 'challenging' retail environment",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afca6739fa54bfd9f47fb0138a15c9d&url=https%3a%2f%2fwww.newschannel5.com%2fbusiness%2fcompany-news%2fwalgreens-closing-numerous-stores-amid-challenging-retail-environment&c=7900944007514650833&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2024-06-27T05:43:00+00:00",
+      "discovered_utc": "2026-11-17T19:09:50+00:00",
+      "confidence": 0.49,
+      "evidence_snippet": "Walgreens, one of America's largest pharmacy chains, announced early Thursday plans to close numerous stores across the U.S.",
+      "query": "Walgreens closing stores"
+    },
+    {
+      "record_id": "bbc97f5c05a20291db",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "The full list of Walgreens stores closing in 2026",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afca6739fa54bfd9f47fb0138a15c9d&url=https%3a%2f%2ffinance.yahoo.com%2fhealthcare%2farticles%2ffull-list-walgreens-stores-closing-103053710.html&c=5681962683404372760&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-09-25T03:30:00+00:00",
+      "discovered_utc": "2026-11-17T19:09:50+00:00",
+      "confidence": 0.49,
+      "evidence_snippet": "The company is closing far fewer stores than originally planned following its acquisition by private equity firm Sycamore Partners, with the drugstore chain now expecting to shutter fewer than 100 locations in 2026.",
+      "query": "Walgreens closing stores"
+    },
+    {
+      "record_id": "389dd51ac5a311f1c4",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens will close fewer stores as it refocuses on its retail pharmacy roots",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afca6739fa54bfd9f47fb0138a15c9d&url=https%3a%2f%2fwww.emarketer.com%2fcontent%2fwalgreens-will-close-fewer-stores-refocuses-on-its-retail-pharmacy-roots&c=9694999443418642231&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-09-30T21:00:00+00:00",
+      "discovered_utc": "2026-11-17T19:09:50+00:00",
+      "confidence": 0.84,
+      "evidence_snippet": "Walgreens will close fewer stores as it refocuses on its retail pharmacy roots The news: Walgreens is scaling back its store closure plans.",
+      "query": "Walgreens closing stores"
+    },
+    {
+      "record_id": "173565db4f41257fad",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens just slashed its store closure list \u2014 here\u2019s what\u2019s actually closing near you in 2026",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afca6739fa54bfd9f47fb0138a15c9d&url=https%3a%2f%2fwww.al.com%2flife%2f2026%2f09%2fwalgreens-just-slashed-its-store-closure-list-heres-whats-actually-closing-near-you-in-2026.html&c=6443479502760810163&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-09-19T21:30:00+00:00",
+      "discovered_utc": "2026-11-17T19:09:50+00:00",
+      "confidence": 0.37,
+      "evidence_snippet": "Walgreens just slashed its store closure list \u2014 here\u2019s what\u2019s actually closing near you in 2026 Here\u2019s something Walgreens wasn\u2019t expecting.",
+      "query": "Walgreens closing stores"
+    },
+    {
+      "record_id": "f4026188cad07d4d9a",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens will close fewer stores as it refocuses on its retail pharmacy roots",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afca67e524340b3a36f42af103754a5&url=https%3a%2f%2fwww.emarketer.com%2fcontent%2fwalgreens-will-close-fewer-stores-refocuses-on-its-retail-pharmacy-roots&c=9694999443418642231&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-09-30T21:00:00+00:00",
+      "discovered_utc": "2026-11-17T19:09:50+00:00",
+      "confidence": 0.84,
+      "evidence_snippet": "Walgreens will close fewer stores as it refocuses on its retail pharmacy roots The news: Walgreens is scaling back its store closure plans.",
+      "query": "Walgreens pharmacy closed location"
+    },
+    {
+      "record_id": "2b5170d871d67f62b3",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens closing stores: Which NJ locations are affected?",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afca67e524340b3a36f42af103754a5&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fwalgreens-closing-stores-which-nj-locations-are-affected%2far-AA29n1pD&c=8428865812417747474&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-08-04T04:50:05+00:00",
+      "discovered_utc": "2026-11-17T19:09:50+00:00",
+      "confidence": 0.25,
+      "evidence_snippet": "Walgreens closing stores: Which NJ locations are affected? Walgreens is closing stores nationwide. Here's which New Jersey locations are closing and what customers should know.",
+      "query": "Walgreens pharmacy closed location"
+    },
+    {
+      "record_id": "7e10f42623ab55313d",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens once planned to close 1,200 stores \u2014 now the number is under 100. Here\u2019s the new list",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afca67e524340b3a36f42af103754a5&url=https%3a%2f%2fwww.nj.com%2fbusiness%2f2026%2f09%2fwalgreens-once-planned-to-close-1200-stores-now-the-number-is-under-100-heres-the-new-list.html&c=13288850858153094083&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-09-08T22:00:00+00:00",
+      "discovered_utc": "2026-11-17T19:09:50+00:00",
+      "confidence": 0.37,
+      "evidence_snippet": "Walgreens once planned to close 1,200 stores \u2014 now the number is under 100.",
+      "query": "Walgreens pharmacy closed location"
+    },
+    {
+      "record_id": "ef01c684744b214eb0",
+      "chain": "Walgreens",
+      "location_text": "Arlington, VA",
+      "city": "Arlington",
+      "state": "VA",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens Closing Dozens Of Pharmacies In 2026: Here's Where, Why",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afca67e524340b3a36f42af103754a5&url=https%3a%2f%2fwww.aol.com%2farticles%2fwalgreens-closing-dozens-pharmacies-2026-144848000.html&c=1745318424509246133&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-08-05T07:48:00+00:00",
+      "discovered_utc": "2026-11-17T19:09:50+00:00",
+      "confidence": 0.91,
+      "evidence_snippet": "Walgreens Closing Dozens Of Pharmacies In 2026: Here's Where, Why Walgreens is planning to close dozens of stores in 2026 as the pharmacy chain reshapes its nationwide footprint, according to reports.",
+      "query": "Walgreens pharmacy closed location"
+    },
+    {
+      "record_id": "a2fda7db38d495b13f",
+      "chain": "Walgreens",
+      "location_text": "Beaufort, SC",
+      "city": "Beaufort",
+      "state": "SC",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens Closing Dozens Of Pharmacies In 2026: Here's Where, Why",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afca67e524340b3a36f42af103754a5&url=https%3a%2f%2fwww.aol.com%2farticles%2fwalgreens-closing-dozens-pharmacies-2026-144848000.html&c=1745318424509246133&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-08-05T07:48:00+00:00",
+      "discovered_utc": "2026-11-17T19:09:50+00:00",
+      "confidence": 0.91,
+      "evidence_snippet": "Walgreens Closing Dozens Of Pharmacies In 2026: Here's Where, Why Walgreens is planning to close dozens of stores in 2026 as the pharmacy chain reshapes its nationwide footprint, according to reports.",
+      "query": "Walgreens pharmacy closed location"
+    },
+    {
+      "record_id": "a32a91f6e0682b0d64",
+      "chain": "Walgreens",
+      "location_text": "Bridgeton, MO",
+      "city": "Bridgeton",
+      "state": "MO",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens Closing Dozens Of Pharmacies In 2026: Here's Where, Why",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afca67e524340b3a36f42af103754a5&url=https%3a%2f%2fwww.aol.com%2farticles%2fwalgreens-closing-dozens-pharmacies-2026-144848000.html&c=1745318424509246133&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-08-05T07:48:00+00:00",
+      "discovered_utc": "2026-11-17T19:09:50+00:00",
+      "confidence": 0.91,
+      "evidence_snippet": "Walgreens Closing Dozens Of Pharmacies In 2026: Here's Where, Why Walgreens is planning to close dozens of stores in 2026 as the pharmacy chain reshapes its nationwide footprint, according to reports.",
+      "query": "Walgreens pharmacy closed location"
+    },
+    {
+      "record_id": "fb4cc1042792dde060",
+      "chain": "Walgreens",
+      "location_text": "Brooklyn, NY",
+      "city": "Brooklyn",
+      "state": "NY",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens Closing Dozens Of Pharmacies In 2026: Here's Where, Why",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afca67e524340b3a36f42af103754a5&url=https%3a%2f%2fwww.aol.com%2farticles%2fwalgreens-closing-dozens-pharmacies-2026-144848000.html&c=1745318424509246133&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-08-05T07:48:00+00:00",
+      "discovered_utc": "2026-11-17T19:09:50+00:00",
+      "confidence": 0.91,
+      "evidence_snippet": "Walgreens Closing Dozens Of Pharmacies In 2026: Here's Where, Why Walgreens is planning to close dozens of stores in 2026 as the pharmacy chain reshapes its nationwide footprint, according to reports.",
+      "query": "Walgreens pharmacy closed location"
+    },
+    {
+      "record_id": "2d60a32418b3801975",
+      "chain": "Walgreens",
+      "location_text": "Milwaukee Rockford, IL",
+      "city": "Milwaukee Rockford",
+      "state": "IL",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens Closing Dozens Of Pharmacies In 2026: Here's Where, Why",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afca67e524340b3a36f42af103754a5&url=https%3a%2f%2fwww.aol.com%2farticles%2fwalgreens-closing-dozens-pharmacies-2026-144848000.html&c=1745318424509246133&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-08-05T07:48:00+00:00",
+      "discovered_utc": "2026-11-17T19:09:50+00:00",
+      "confidence": 0.91,
+      "evidence_snippet": "Walgreens Closing Dozens Of Pharmacies In 2026: Here's Where, Why Walgreens is planning to close dozens of stores in 2026 as the pharmacy chain reshapes its nationwide footprint, according to reports.",
+      "query": "Walgreens pharmacy closed location"
+    },
+    {
+      "record_id": "ae2e0ce394c051952a",
+      "chain": "Walgreens",
+      "location_text": "Louis Washington, DC",
+      "city": "Louis Washington",
+      "state": "DC",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens Closing Dozens Of Pharmacies In 2026: Here's Where, Why",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afca67e524340b3a36f42af103754a5&url=https%3a%2f%2fwww.aol.com%2farticles%2fwalgreens-closing-dozens-pharmacies-2026-144848000.html&c=1745318424509246133&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-08-05T07:48:00+00:00",
+      "discovered_utc": "2026-11-17T19:09:50+00:00",
+      "confidence": 0.91,
+      "evidence_snippet": "Walgreens Closing Dozens Of Pharmacies In 2026: Here's Where, Why Walgreens is planning to close dozens of stores in 2026 as the pharmacy chain reshapes its nationwide footprint, according to reports.",
+      "query": "Walgreens pharmacy closed location"
+    },
+    {
+      "record_id": "760b06d029a6705571",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens Store Closures 2026: List of Pharmacy Locations Shutting Down Across the US",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afca67e524340b3a36f42af103754a5&url=https%3a%2f%2fwww.ibtimes.co.uk%2fwalgreens-store-closures-2026-strategic-shift-1812273&c=17103580441472623021&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-08-03T23:43:00+00:00",
+      "discovered_utc": "2026-11-17T19:09:50+00:00",
+      "confidence": 0.9,
+      "evidence_snippet": "Walgreens Store Closures 2026: List of Pharmacy Locations Shutting Down Across the US Walgreens is closing fewer than 100 stores in 2026.",
       "query": "Walgreens pharmacy closed location"
     }
   ]
