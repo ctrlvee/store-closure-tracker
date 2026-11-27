@@ -1,19 +1,19 @@
 {
-  "generated_utc": "2026-11-26T19:36:37Z",
+  "generated_utc": "2026-11-27T19:28:00Z",
   "totals": {
-    "records": 4580,
+    "records": 4599,
     "with_coordinates": 0,
-    "without_coordinates": 4580
+    "without_coordinates": 4599
   },
   "breakdowns": {
     "by_chain": [
       {
         "chain": "CVS",
-        "count": 606
+        "count": 611
       },
       {
         "chain": "Walgreens",
-        "count": 3974
+        "count": 3988
       }
     ],
     "by_month": [
@@ -31,7 +31,7 @@
       },
       {
         "month": "2024-06",
-        "count": 46
+        "count": 47
       },
       {
         "month": "2024-10",
@@ -95,11 +95,11 @@
       },
       {
         "month": "2026-08",
-        "count": 2061
+        "count": 2066
       },
       {
         "month": "2026-09",
-        "count": 1371
+        "count": 1376
       },
       {
         "month": "2026-10",
@@ -107,7 +107,7 @@
       },
       {
         "month": "2026-11",
-        "count": 63
+        "count": 71
       }
     ],
     "by_state": [
@@ -145,7 +145,7 @@
       },
       {
         "state": "IA",
-        "count": 9
+        "count": 10
       },
       {
         "state": "MI",
@@ -175,7 +175,7 @@
     "by_source_domain": [
       {
         "source_domain": "www.bing.com",
-        "count": 4419
+        "count": 4438
       },
       {
         "source_domain": "www.fool.com",
@@ -83150,6 +83150,348 @@
       "discovered_utc": "2026-11-26T19:35:46+00:00",
       "confidence": 0.9,
       "evidence_snippet": "Walgreens Store Closures 2026: List of Pharmacy Locations Shutting Down Across the US Walgreens is closing fewer than 100 stores in 2026.",
+      "query": "Walgreens pharmacy closed location"
+    },
+    {
+      "record_id": "cd5e656a4d8a2e6c1b",
+      "chain": "CVS",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "What stores are open and closed on Thanksgiving? See hours",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09d97eaaee42e595eb1bd21c6a8d0a&url=https%3a%2f%2fwww.lohud.com%2fstory%2fnews%2f2026%2f11%2f24%2fwhat-stores-are-open-closed-thanksgiving-see-hours%2f92938065007%2f&c=7619998051142787558&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-11-24T02:03:00+00:00",
+      "discovered_utc": "2026-11-27T19:27:48+00:00",
+      "confidence": 0.49,
+      "evidence_snippet": "What stores are open and closed on Thanksgiving?",
+      "query": "CVS store closure location"
+    },
+    {
+      "record_id": "aa39d3906df16368ee",
+      "chain": "CVS",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "What's open and closed on Black Friday 2026? Hours for stores, restaurants, banks and more",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09d9890f8842e7b664d9ac1e43d00c&url=https%3a%2f%2fwww.cbsnews.com%2fnews%2fthanksgiving-store-hours-open-closed-2026-black-friday%2f&c=5790094885299545981&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-11-26T19:01:00+00:00",
+      "discovered_utc": "2026-11-27T19:27:48+00:00",
+      "confidence": 0.49,
+      "evidence_snippet": "What's open and closed on Black Friday 2026?",
+      "query": "CVS closing stores"
+    },
+    {
+      "record_id": "6c5bea4167ec7310cf",
+      "chain": "CVS",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "What stores are open and closed on Thanksgiving? See hours",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09d9890f8842e7b664d9ac1e43d00c&url=https%3a%2f%2fwww.lohud.com%2fstory%2fnews%2f2026%2f11%2f24%2fwhat-stores-are-open-closed-thanksgiving-see-hours%2f92938065007%2f&c=7619998051142787558&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-11-24T02:03:00+00:00",
+      "discovered_utc": "2026-11-27T19:27:48+00:00",
+      "confidence": 0.49,
+      "evidence_snippet": "What stores are open and closed on Thanksgiving?",
+      "query": "CVS closing stores"
+    },
+    {
+      "record_id": "c7242d82b83b7bd557",
+      "chain": "CVS",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "What Stores Are Open On Thanksgiving: Wegmans closes 6 a.m. to 4 p.m.",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09d9890f8842e7b664d9ac1e43d00c&url=https%3a%2f%2fwww.el-balad.com%2f17069881&c=11852284082227682717&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-11-25T02:53:00+00:00",
+      "discovered_utc": "2026-11-27T19:27:48+00:00",
+      "confidence": 0.49,
+      "evidence_snippet": "What Stores Are Open On Thanksgiving: Wegmans closes 6 a.m.",
+      "query": "CVS closing stores"
+    },
+    {
+      "record_id": "6768a1e3185d98e617",
+      "chain": "CVS",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "What stores are open and closed on Thanksgiving? See hours",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09d995ce56402da8b2b1d2fc003803&url=https%3a%2f%2fwww.lohud.com%2fstory%2fnews%2f2026%2f11%2f24%2fwhat-stores-are-open-closed-thanksgiving-see-hours%2f92938065007%2f&c=7619998051142787558&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-11-24T02:03:00+00:00",
+      "discovered_utc": "2026-11-27T19:27:48+00:00",
+      "confidence": 0.49,
+      "evidence_snippet": "What stores are open and closed on Thanksgiving?",
+      "query": "CVS pharmacy closed location"
+    },
+    {
+      "record_id": "ff990051ab87143521",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens closing stores: Which DC, MD and VA locations are affected?",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09d9a0ef5e49599b79346a2d67d9e9&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fwalgreens-closing-stores-which-dc-md-and-va-locations-are-affected%2far-AA29o8x1&c=9962982826164756942&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-08-04T08:44:14+00:00",
+      "discovered_utc": "2026-11-27T19:27:48+00:00",
+      "confidence": 0.25,
+      "evidence_snippet": "Walgreens closing stores: Which DC, MD and VA locations are affected? Walgreens is closing stores in 2026. Here's which Washington DC, Maryland and Virginia locations are affected and what customers need to know.",
+      "query": "Walgreens store closure location"
+    },
+    {
+      "record_id": "4c833fa282f4b6456a",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens just slashed its store closure list \u2014 here\u2019s what\u2019s actually closing near you in 2026",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09d9a0ef5e49599b79346a2d67d9e9&url=https%3a%2f%2fwww.al.com%2flife%2f2026%2f09%2fwalgreens-just-slashed-its-store-closure-list-heres-whats-actually-closing-near-you-in-2026.html&c=6443479502760810163&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-09-19T21:30:00+00:00",
+      "discovered_utc": "2026-11-27T19:27:48+00:00",
+      "confidence": 0.37,
+      "evidence_snippet": "Walgreens just slashed its store closure list \u2014 here\u2019s what\u2019s actually closing near you in 2026 Here\u2019s something Walgreens wasn\u2019t expecting.",
+      "query": "Walgreens store closure location"
+    },
+    {
+      "record_id": "db7da6f358fa0cfd42",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "The full list of Walgreens stores closing in 2026",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09d9a0ef5e49599b79346a2d67d9e9&url=https%3a%2f%2ffinance.yahoo.com%2fhealthcare%2farticles%2ffull-list-walgreens-stores-closing-103053075.html&c=7226659313382924104&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-09-25T03:30:00+00:00",
+      "discovered_utc": "2026-11-27T19:27:48+00:00",
+      "confidence": 0.49,
+      "evidence_snippet": "The company is closing far fewer stores than originally planned following its acquisition by private equity firm Sycamore Partners, with the drugstore chain now expecting to shutter fewer than 100 locations in 2026.",
+      "query": "Walgreens store closure location"
+    },
+    {
+      "record_id": "41c1439dfe56013d51",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "What stores are open and closed on Thanksgiving? See hours",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09d9a0ef5e49599b79346a2d67d9e9&url=https%3a%2f%2fwww.lohud.com%2fstory%2fnews%2f2026%2f11%2f24%2fwhat-stores-are-open-closed-thanksgiving-see-hours%2f92938065007%2f&c=7619998051142787558&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-11-24T02:03:00+00:00",
+      "discovered_utc": "2026-11-27T19:27:48+00:00",
+      "confidence": 0.49,
+      "evidence_snippet": "What stores are open and closed on Thanksgiving?",
+      "query": "Walgreens store closure location"
+    },
+    {
+      "record_id": "c90d7baa9515346624",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens closing stores: Which NJ locations are affected?",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09d9a0ef5e49599b79346a2d67d9e9&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2fcompanies%2fwalgreens-closing-stores-which-nj-locations-are-affected%2far-AA29n1pD&c=934153924730253131&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-08-04T04:50:05+00:00",
+      "discovered_utc": "2026-11-27T19:27:48+00:00",
+      "confidence": 0.25,
+      "evidence_snippet": "Walgreens closing stores: Which NJ locations are affected? Walgreens is closing stores nationwide. Here's which New Jersey locations are closing and what customers should know.",
+      "query": "Walgreens store closure location"
+    },
+    {
+      "record_id": "34409824ad1e843647",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens closing stores: Which NJ locations are affected?",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09d9abbc924e5ba0cb0dad9da0dab8&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fwalgreens-closing-stores-which-nj-locations-are-affected%2far-AA29n1pD&c=8428865812417747474&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-08-04T04:50:05+00:00",
+      "discovered_utc": "2026-11-27T19:27:48+00:00",
+      "confidence": 0.25,
+      "evidence_snippet": "Walgreens closing stores: Which NJ locations are affected? Walgreens is closing stores nationwide. Here's which New Jersey locations are closing and what customers should know.",
+      "query": "Walgreens closing stores"
+    },
+    {
+      "record_id": "baffc7ccda55a7b6fd",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens closing stores: Which DC, MD and VA locations are affected?",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09d9abbc924e5ba0cb0dad9da0dab8&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fwalgreens-closing-stores-which-dc-md-and-va-locations-are-affected%2far-AA29o8x1&c=9962982826164756942&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-08-04T08:44:14+00:00",
+      "discovered_utc": "2026-11-27T19:27:48+00:00",
+      "confidence": 0.25,
+      "evidence_snippet": "Walgreens closing stores: Which DC, MD and VA locations are affected? Walgreens is closing stores in 2026. Here's which Washington DC, Maryland and Virginia locations are affected and what customers need to know.",
+      "query": "Walgreens closing stores"
+    },
+    {
+      "record_id": "f5efcfcd27fab7e257",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens closing numerous stores amid 'challenging' retail environment",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09d9abbc924e5ba0cb0dad9da0dab8&url=https%3a%2f%2fwww.newschannel5.com%2fbusiness%2fcompany-news%2fwalgreens-closing-numerous-stores-amid-challenging-retail-environment&c=7900944007514650833&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2024-06-27T05:43:00+00:00",
+      "discovered_utc": "2026-11-27T19:27:48+00:00",
+      "confidence": 0.49,
+      "evidence_snippet": "Walgreens, one of America's largest pharmacy chains, announced early Thursday plans to close numerous stores across the U.S.",
+      "query": "Walgreens closing stores"
+    },
+    {
+      "record_id": "e4f4d7f0735d52f938",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "The full list of Walgreens stores closing in 2026",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09d9abbc924e5ba0cb0dad9da0dab8&url=https%3a%2f%2ffinance.yahoo.com%2fhealthcare%2farticles%2ffull-list-walgreens-stores-closing-103053710.html&c=5681962683404372760&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-09-25T03:30:00+00:00",
+      "discovered_utc": "2026-11-27T19:27:48+00:00",
+      "confidence": 0.49,
+      "evidence_snippet": "The company is closing far fewer stores than originally planned following its acquisition by private equity firm Sycamore Partners, with the drugstore chain now expecting to shutter fewer than 100 locations in 2026.",
+      "query": "Walgreens closing stores"
+    },
+    {
+      "record_id": "b87f6fdf11f5b8fe9b",
+      "chain": "Walgreens",
+      "location_text": "Fort Dodge, IA",
+      "city": "Fort Dodge",
+      "state": "IA",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens is closing",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09d9abbc924e5ba0cb0dad9da0dab8&url=https%3a%2f%2fwww.messengernews.net%2fnews%2flocal-news%2f2026%2f11%2fwalgreens-is-closing%2f&c=5462455626897225367&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-11-17T16:00:00+00:00",
+      "discovered_utc": "2026-11-27T19:27:48+00:00",
+      "confidence": 0.91,
+      "evidence_snippet": "Walgreens is closing The Walgreens store in Fort Dodge will close Dec.",
+      "query": "Walgreens closing stores"
+    },
+    {
+      "record_id": "37200a5acb1386f338",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens just slashed its store closure list \u2014 here\u2019s what\u2019s actually closing near you in 2026",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09d9abbc924e5ba0cb0dad9da0dab8&url=https%3a%2f%2fwww.silive.com%2fbusiness%2f2026%2f09%2fwalgreens-just-slashed-its-store-closure-list-heres-whats-actually-closing-near-you-in-2026.html&c=3550084824265237635&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-09-19T22:30:00+00:00",
+      "discovered_utc": "2026-11-27T19:27:48+00:00",
+      "confidence": 0.37,
+      "evidence_snippet": "Walgreens just slashed its store closure list \u2014 here\u2019s what\u2019s actually closing near you in 2026 Here\u2019s something Walgreens wasn\u2019t expecting.",
+      "query": "Walgreens closing stores"
+    },
+    {
+      "record_id": "a78f05a34b33b89236",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens Store Closures 2026: List of Pharmacy Locations Shutting Down Across the US",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09d9b4e12d4bacb3bcbbbf86f0b23b&url=https%3a%2f%2fwww.ibtimes.co.uk%2fwalgreens-store-closures-2026-strategic-shift-1812273&c=17103580441472623021&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-08-03T23:43:00+00:00",
+      "discovered_utc": "2026-11-27T19:27:48+00:00",
+      "confidence": 0.9,
+      "evidence_snippet": "Walgreens Store Closures 2026: List of Pharmacy Locations Shutting Down Across the US Walgreens is closing fewer than 100 stores in 2026.",
+      "query": "Walgreens pharmacy closed location"
+    },
+    {
+      "record_id": "53d121ded5849e8b66",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "Walgreens once planned to close 1,200 stores \u2014 now the number is under 100. Here\u2019s the new list",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09d9b4e12d4bacb3bcbbbf86f0b23b&url=https%3a%2f%2fwww.cleveland.com%2fbusiness%2f2026%2f09%2fwalgreens-once-planned-to-close-1200-stores-now-the-number-is-under-100-heres-the-new-list.html&c=7246617574402146051&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-09-08T22:00:00+00:00",
+      "discovered_utc": "2026-11-27T19:27:48+00:00",
+      "confidence": 0.37,
+      "evidence_snippet": "Walgreens once planned to close 1,200 stores \u2014 now the number is under 100.",
+      "query": "Walgreens pharmacy closed location"
+    },
+    {
+      "record_id": "f65baad1cded9ea5f8",
+      "chain": "Walgreens",
+      "location_text": "",
+      "city": "",
+      "state": "",
+      "latitude": null,
+      "longitude": null,
+      "article_title": "What stores are open and closed on Thanksgiving? See hours",
+      "article_url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09d9b4e12d4bacb3bcbbbf86f0b23b&url=https%3a%2f%2fwww.lohud.com%2fstory%2fnews%2f2026%2f11%2f24%2fwhat-stores-are-open-closed-thanksgiving-see-hours%2f92938065007%2f&c=7619998051142787558&mkt=en-us",
+      "source_domain": "www.bing.com",
+      "source_type": "bing_rss",
+      "published_utc": "2026-11-24T02:03:00+00:00",
+      "discovered_utc": "2026-11-27T19:27:48+00:00",
+      "confidence": 0.49,
+      "evidence_snippet": "What stores are open and closed on Thanksgiving?",
       "query": "Walgreens pharmacy closed location"
     }
   ]
